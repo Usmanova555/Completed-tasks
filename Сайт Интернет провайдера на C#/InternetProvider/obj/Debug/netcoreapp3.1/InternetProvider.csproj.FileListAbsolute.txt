@@ -1,0 +1,509 @@
+C:\Users\danik\source\repos\InternetProvider\InternetProvider\obj\Debug\netcoreapp3.1\InternetProvider.csprojAssemblyReference.cache
+C:\Users\danik\source\repos\InternetProvider\InternetProvider\obj\Debug\netcoreapp3.1\InternetProvider.AssemblyInfoInputs.cache
+C:\Users\danik\source\repos\InternetProvider\InternetProvider\obj\Debug\netcoreapp3.1\InternetProvider.AssemblyInfo.cs
+C:\Users\danik\source\repos\InternetProvider\InternetProvider\obj\Debug\netcoreapp3.1\InternetProvider.RazorAssemblyInfo.cache
+C:\Users\danik\source\repos\InternetProvider\InternetProvider\obj\Debug\netcoreapp3.1\InternetProvider.RazorAssemblyInfo.cs
+C:\Users\danik\source\repos\InternetProvider\InternetProvider\obj\Debug\netcoreapp3.1\InternetProvider.TagHelpers.input.cache
+C:\Users\danik\source\repos\InternetProvider\InternetProvider\obj\Debug\netcoreapp3.1\InternetProvider.TagHelpers.output.cache
+C:\Users\danik\source\repos\InternetProvider\InternetProvider\obj\Debug\netcoreapp3.1\InternetProvider.RazorCoreGenerate.cache
+C:\Users\danik\source\repos\InternetProvider\InternetProvider\obj\Debug\netcoreapp3.1\Razor\Views\Home\Index.cshtml.g.cs
+C:\Users\danik\source\repos\InternetProvider\InternetProvider\obj\Debug\netcoreapp3.1\Razor\Views\Home\Privacy.cshtml.g.cs
+C:\Users\danik\source\repos\InternetProvider\InternetProvider\obj\Debug\netcoreapp3.1\Razor\Views\Shared\Error.cshtml.g.cs
+C:\Users\danik\source\repos\InternetProvider\InternetProvider\obj\Debug\netcoreapp3.1\Razor\Views\Shared\_Layout.cshtml.g.cs
+C:\Users\danik\source\repos\InternetProvider\InternetProvider\obj\Debug\netcoreapp3.1\Razor\Views\Shared\_ValidationScriptsPartial.cshtml.g.cs
+C:\Users\danik\source\repos\InternetProvider\InternetProvider\obj\Debug\netcoreapp3.1\Razor\Views\_ViewImports.cshtml.g.cs
+C:\Users\danik\source\repos\InternetProvider\InternetProvider\obj\Debug\netcoreapp3.1\Razor\Views\_ViewStart.cshtml.g.cs
+C:\Users\danik\source\repos\InternetProvider\InternetProvider\obj\Debug\netcoreapp3.1\InternetProvider.RazorTargetAssemblyInfo.cache
+C:\Users\danik\source\repos\InternetProvider\InternetProvider\obj\Debug\netcoreapp3.1\InternetProvider.RazorTargetAssemblyInfo.cs
+C:\Users\danik\source\repos\InternetProvider\InternetProvider\obj\Debug\netcoreapp3.1\InternetProvider.dll
+C:\Users\danik\source\repos\InternetProvider\InternetProvider\obj\Debug\netcoreapp3.1\InternetProvider.pdb
+C:\Users\danik\source\repos\InternetProvider\InternetProvider\bin\Debug\netcoreapp3.1\appsettings.Development.json
+C:\Users\danik\source\repos\InternetProvider\InternetProvider\bin\Debug\netcoreapp3.1\appsettings.json
+C:\Users\danik\source\repos\InternetProvider\InternetProvider\bin\Debug\netcoreapp3.1\Properties\launchSettings.json
+C:\Users\danik\source\repos\InternetProvider\InternetProvider\bin\Debug\netcoreapp3.1\InternetProvider.exe
+C:\Users\danik\source\repos\InternetProvider\InternetProvider\bin\Debug\netcoreapp3.1\InternetProvider.deps.json
+C:\Users\danik\source\repos\InternetProvider\InternetProvider\bin\Debug\netcoreapp3.1\InternetProvider.runtimeconfig.json
+C:\Users\danik\source\repos\InternetProvider\InternetProvider\bin\Debug\netcoreapp3.1\InternetProvider.runtimeconfig.dev.json
+C:\Users\danik\source\repos\InternetProvider\InternetProvider\bin\Debug\netcoreapp3.1\InternetProvider.dll
+C:\Users\danik\source\repos\InternetProvider\InternetProvider\bin\Debug\netcoreapp3.1\InternetProvider.pdb
+C:\Users\danik\source\repos\InternetProvider\InternetProvider\bin\Debug\netcoreapp3.1\InternetProvider.Views.dll
+C:\Users\danik\source\repos\InternetProvider\InternetProvider\bin\Debug\netcoreapp3.1\InternetProvider.Views.pdb
+C:\Users\danik\source\repos\InternetProvider\InternetProvider\obj\Debug\netcoreapp3.1\InternetProvider.Views.pdb
+C:\Users\danik\source\repos\InternetProvider\InternetProvider\obj\Debug\netcoreapp3.1\staticwebassets\InternetProvider.StaticWebAssets.Manifest.cache
+C:\Users\danik\source\repos\InternetProvider\InternetProvider\obj\Debug\netcoreapp3.1\staticwebassets\InternetProvider.StaticWebAssets.xml
+C:\Users\danik\source\repos\InternetProvider\InternetProvider\obj\Debug\netcoreapp3.1\InternetProvider.genruntimeconfig.cache
+C:\Users\danik\source\repos\InternetProvider\InternetProvider\obj\Debug\netcoreapp3.1\InternetProvider.csproj.CopyComplete
+C:\Users\danik\source\repos\InternetProvider\InternetProvider\obj\Debug\netcoreapp3.1\Razor\Views\User\Authorization.cshtml.g.cs
+C:\Users\danik\source\repos\InternetProvider\InternetProvider\obj\Debug\netcoreapp3.1\Razor\Views\User\Registration.cshtml.g.cs
+C:\Users\danik\source\repos\InternetProvider\InternetProvider\bin\Debug\netcoreapp3.1\linq2db.dll
+C:\Users\danik\source\repos\InternetProvider\InternetProvider\bin\Debug\netcoreapp3.1\Models.dll
+C:\Users\danik\source\repos\InternetProvider\InternetProvider\bin\Debug\netcoreapp3.1\Repository.dll
+C:\Users\danik\source\repos\InternetProvider\InternetProvider\bin\Debug\netcoreapp3.1\Security.dll
+C:\Users\danik\source\repos\InternetProvider\InternetProvider\bin\Debug\netcoreapp3.1\Repository.pdb
+C:\Users\danik\source\repos\InternetProvider\InternetProvider\bin\Debug\netcoreapp3.1\Security.pdb
+C:\Users\danik\source\repos\InternetProvider\InternetProvider\bin\Debug\netcoreapp3.1\Models.pdb
+C:\Users\danik\source\repos\InternetProvider\InternetProvider\bin\Debug\netcoreapp3.1\Npgsql.dll
+C:\Users\danik\source\repos\InternetProvider\InternetProvider\obj\Debug\netcoreapp3.1\Razor\Views\User\PersonalPage.cshtml.g.cs
+C:\Users\danik\source\repos\InternetProvider\InternetProvider\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Razor.Language.dll
+C:\Users\danik\source\repos\InternetProvider\InternetProvider\bin\Debug\netcoreapp3.1\Microsoft.CodeAnalysis.dll
+C:\Users\danik\source\repos\InternetProvider\InternetProvider\bin\Debug\netcoreapp3.1\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\danik\source\repos\InternetProvider\InternetProvider\bin\Debug\netcoreapp3.1\Microsoft.CodeAnalysis.CSharp.Workspaces.dll
+C:\Users\danik\source\repos\InternetProvider\InternetProvider\bin\Debug\netcoreapp3.1\Microsoft.CodeAnalysis.Razor.dll
+C:\Users\danik\source\repos\InternetProvider\InternetProvider\bin\Debug\netcoreapp3.1\Microsoft.CodeAnalysis.Workspaces.dll
+C:\Users\danik\source\repos\InternetProvider\InternetProvider\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.dll
+C:\Users\danik\source\repos\InternetProvider\InternetProvider\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.Contracts.dll
+C:\Users\danik\source\repos\InternetProvider\InternetProvider\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.Core.dll
+C:\Users\danik\source\repos\InternetProvider\InternetProvider\bin\Debug\netcoreapp3.1\dotnet-aspnet-codegenerator-design.dll
+C:\Users\danik\source\repos\InternetProvider\InternetProvider\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.EntityFrameworkCore.dll
+C:\Users\danik\source\repos\InternetProvider\InternetProvider\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.Templating.dll
+C:\Users\danik\source\repos\InternetProvider\InternetProvider\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.Utils.dll
+C:\Users\danik\source\repos\InternetProvider\InternetProvider\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGenerators.Mvc.dll
+C:\Users\danik\source\repos\InternetProvider\InternetProvider\bin\Debug\netcoreapp3.1\Newtonsoft.Json.dll
+C:\Users\danik\source\repos\InternetProvider\InternetProvider\bin\Debug\netcoreapp3.1\NuGet.Frameworks.dll
+C:\Users\danik\source\repos\InternetProvider\InternetProvider\bin\Debug\netcoreapp3.1\System.Composition.AttributedModel.dll
+C:\Users\danik\source\repos\InternetProvider\InternetProvider\bin\Debug\netcoreapp3.1\System.Composition.Convention.dll
+C:\Users\danik\source\repos\InternetProvider\InternetProvider\bin\Debug\netcoreapp3.1\System.Composition.Hosting.dll
+C:\Users\danik\source\repos\InternetProvider\InternetProvider\bin\Debug\netcoreapp3.1\System.Composition.Runtime.dll
+C:\Users\danik\source\repos\InternetProvider\InternetProvider\bin\Debug\netcoreapp3.1\System.Composition.TypedParts.dll
+C:\Users\danik\source\repos\InternetProvider\InternetProvider\bin\Debug\netcoreapp3.1\cs\Microsoft.CodeAnalysis.resources.dll
+C:\Users\danik\source\repos\InternetProvider\InternetProvider\bin\Debug\netcoreapp3.1\de\Microsoft.CodeAnalysis.resources.dll
+C:\Users\danik\source\repos\InternetProvider\InternetProvider\bin\Debug\netcoreapp3.1\es\Microsoft.CodeAnalysis.resources.dll
+C:\Users\danik\source\repos\InternetProvider\InternetProvider\bin\Debug\netcoreapp3.1\fr\Microsoft.CodeAnalysis.resources.dll
+C:\Users\danik\source\repos\InternetProvider\InternetProvider\bin\Debug\netcoreapp3.1\it\Microsoft.CodeAnalysis.resources.dll
+C:\Users\danik\source\repos\InternetProvider\InternetProvider\bin\Debug\netcoreapp3.1\ja\Microsoft.CodeAnalysis.resources.dll
+C:\Users\danik\source\repos\InternetProvider\InternetProvider\bin\Debug\netcoreapp3.1\ko\Microsoft.CodeAnalysis.resources.dll
+C:\Users\danik\source\repos\InternetProvider\InternetProvider\bin\Debug\netcoreapp3.1\pl\Microsoft.CodeAnalysis.resources.dll
+C:\Users\danik\source\repos\InternetProvider\InternetProvider\bin\Debug\netcoreapp3.1\pt-BR\Microsoft.CodeAnalysis.resources.dll
+C:\Users\danik\source\repos\InternetProvider\InternetProvider\bin\Debug\netcoreapp3.1\ru\Microsoft.CodeAnalysis.resources.dll
+C:\Users\danik\source\repos\InternetProvider\InternetProvider\bin\Debug\netcoreapp3.1\tr\Microsoft.CodeAnalysis.resources.dll
+C:\Users\danik\source\repos\InternetProvider\InternetProvider\bin\Debug\netcoreapp3.1\zh-Hans\Microsoft.CodeAnalysis.resources.dll
+C:\Users\danik\source\repos\InternetProvider\InternetProvider\bin\Debug\netcoreapp3.1\zh-Hant\Microsoft.CodeAnalysis.resources.dll
+C:\Users\danik\source\repos\InternetProvider\InternetProvider\bin\Debug\netcoreapp3.1\cs\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\danik\source\repos\InternetProvider\InternetProvider\bin\Debug\netcoreapp3.1\de\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\danik\source\repos\InternetProvider\InternetProvider\bin\Debug\netcoreapp3.1\es\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\danik\source\repos\InternetProvider\InternetProvider\bin\Debug\netcoreapp3.1\fr\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\danik\source\repos\InternetProvider\InternetProvider\bin\Debug\netcoreapp3.1\it\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\danik\source\repos\InternetProvider\InternetProvider\bin\Debug\netcoreapp3.1\ja\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\danik\source\repos\InternetProvider\InternetProvider\bin\Debug\netcoreapp3.1\ko\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\danik\source\repos\InternetProvider\InternetProvider\bin\Debug\netcoreapp3.1\pl\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\danik\source\repos\InternetProvider\InternetProvider\bin\Debug\netcoreapp3.1\pt-BR\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\danik\source\repos\InternetProvider\InternetProvider\bin\Debug\netcoreapp3.1\ru\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\danik\source\repos\InternetProvider\InternetProvider\bin\Debug\netcoreapp3.1\tr\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\danik\source\repos\InternetProvider\InternetProvider\bin\Debug\netcoreapp3.1\zh-Hans\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\danik\source\repos\InternetProvider\InternetProvider\bin\Debug\netcoreapp3.1\zh-Hant\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\danik\source\repos\InternetProvider\InternetProvider\bin\Debug\netcoreapp3.1\cs\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\danik\source\repos\InternetProvider\InternetProvider\bin\Debug\netcoreapp3.1\de\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\danik\source\repos\InternetProvider\InternetProvider\bin\Debug\netcoreapp3.1\es\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\danik\source\repos\InternetProvider\InternetProvider\bin\Debug\netcoreapp3.1\fr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\danik\source\repos\InternetProvider\InternetProvider\bin\Debug\netcoreapp3.1\it\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\danik\source\repos\InternetProvider\InternetProvider\bin\Debug\netcoreapp3.1\ja\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\danik\source\repos\InternetProvider\InternetProvider\bin\Debug\netcoreapp3.1\ko\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\danik\source\repos\InternetProvider\InternetProvider\bin\Debug\netcoreapp3.1\pl\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\danik\source\repos\InternetProvider\InternetProvider\bin\Debug\netcoreapp3.1\pt-BR\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\danik\source\repos\InternetProvider\InternetProvider\bin\Debug\netcoreapp3.1\ru\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\danik\source\repos\InternetProvider\InternetProvider\bin\Debug\netcoreapp3.1\tr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\danik\source\repos\InternetProvider\InternetProvider\bin\Debug\netcoreapp3.1\zh-Hans\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\danik\source\repos\InternetProvider\InternetProvider\bin\Debug\netcoreapp3.1\zh-Hant\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\danik\source\repos\InternetProvider\InternetProvider\bin\Debug\netcoreapp3.1\cs\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\danik\source\repos\InternetProvider\InternetProvider\bin\Debug\netcoreapp3.1\de\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\danik\source\repos\InternetProvider\InternetProvider\bin\Debug\netcoreapp3.1\es\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\danik\source\repos\InternetProvider\InternetProvider\bin\Debug\netcoreapp3.1\fr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\danik\source\repos\InternetProvider\InternetProvider\bin\Debug\netcoreapp3.1\it\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\danik\source\repos\InternetProvider\InternetProvider\bin\Debug\netcoreapp3.1\ja\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\danik\source\repos\InternetProvider\InternetProvider\bin\Debug\netcoreapp3.1\ko\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\danik\source\repos\InternetProvider\InternetProvider\bin\Debug\netcoreapp3.1\pl\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\danik\source\repos\InternetProvider\InternetProvider\bin\Debug\netcoreapp3.1\pt-BR\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\danik\source\repos\InternetProvider\InternetProvider\bin\Debug\netcoreapp3.1\ru\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\danik\source\repos\InternetProvider\InternetProvider\bin\Debug\netcoreapp3.1\tr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\danik\source\repos\InternetProvider\InternetProvider\bin\Debug\netcoreapp3.1\zh-Hans\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\danik\source\repos\InternetProvider\InternetProvider\bin\Debug\netcoreapp3.1\zh-Hant\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\danik\source\repos\InternetProvider\InternetProvider\obj\Debug\netcoreapp3.1\InternetProvider.csproj.CoreCompileInputs.cache
+C:\Users\danik\source\repos\InternetProvider\InternetProvider\obj\Debug\netcoreapp3.1\InternetProvider.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\danik\source\repos\InternetProvider\InternetProvider\obj\Debug\netcoreapp3.1\Razor\Views\Admin\UserList.cshtml.g.cs
+C:\Users\danik\source\repos\InternetProvider\InternetProvider\obj\Debug\netcoreapp3.1\Razor\Views\Admin\EditUser.cshtml.g.cs
+C:\Users\danik\source\repos\InternetProvider\InternetProvider\obj\Debug\netcoreapp3.1\Razor\Views\Admin\CreateTariff.cshtml.g.cs
+C:\Users\danik\source\repos\InternetProvider\InternetProvider\obj\Debug\netcoreapp3.1\Razor\Views\Tariff\TariffList.cshtml.g.cs
+C:\Users\danik\source\repos\InternetProvider\InternetProvider\obj\Debug\netcoreapp3.1\Razor\Views\Tariff\TariffDetails.cshtml.g.cs
+C:\Users\danik\source\repos\InternetProvider\InternetProvider\bin\Debug\netcoreapp3.1\libman.json
+C:\Users\usman\OneDrive\Рабочий стол\InternetProvider\InternetProvider\bin\Debug\netcoreapp3.1\appsettings.Development.json
+C:\Users\usman\OneDrive\Рабочий стол\InternetProvider\InternetProvider\bin\Debug\netcoreapp3.1\appsettings.json
+C:\Users\usman\OneDrive\Рабочий стол\InternetProvider\InternetProvider\bin\Debug\netcoreapp3.1\libman.json
+C:\Users\usman\OneDrive\Рабочий стол\InternetProvider\InternetProvider\bin\Debug\netcoreapp3.1\InternetProvider.exe
+C:\Users\usman\OneDrive\Рабочий стол\InternetProvider\InternetProvider\bin\Debug\netcoreapp3.1\InternetProvider.deps.json
+C:\Users\usman\OneDrive\Рабочий стол\InternetProvider\InternetProvider\bin\Debug\netcoreapp3.1\InternetProvider.runtimeconfig.json
+C:\Users\usman\OneDrive\Рабочий стол\InternetProvider\InternetProvider\bin\Debug\netcoreapp3.1\InternetProvider.runtimeconfig.dev.json
+C:\Users\usman\OneDrive\Рабочий стол\InternetProvider\InternetProvider\bin\Debug\netcoreapp3.1\InternetProvider.dll
+C:\Users\usman\OneDrive\Рабочий стол\InternetProvider\InternetProvider\bin\Debug\netcoreapp3.1\InternetProvider.pdb
+C:\Users\usman\OneDrive\Рабочий стол\InternetProvider\InternetProvider\bin\Debug\netcoreapp3.1\InternetProvider.Views.dll
+C:\Users\usman\OneDrive\Рабочий стол\InternetProvider\InternetProvider\bin\Debug\netcoreapp3.1\InternetProvider.Views.pdb
+C:\Users\usman\OneDrive\Рабочий стол\InternetProvider\InternetProvider\bin\Debug\netcoreapp3.1\linq2db.dll
+C:\Users\usman\OneDrive\Рабочий стол\InternetProvider\InternetProvider\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Razor.Language.dll
+C:\Users\usman\OneDrive\Рабочий стол\InternetProvider\InternetProvider\bin\Debug\netcoreapp3.1\Microsoft.CodeAnalysis.dll
+C:\Users\usman\OneDrive\Рабочий стол\InternetProvider\InternetProvider\bin\Debug\netcoreapp3.1\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\usman\OneDrive\Рабочий стол\InternetProvider\InternetProvider\bin\Debug\netcoreapp3.1\Microsoft.CodeAnalysis.CSharp.Workspaces.dll
+C:\Users\usman\OneDrive\Рабочий стол\InternetProvider\InternetProvider\bin\Debug\netcoreapp3.1\Microsoft.CodeAnalysis.Razor.dll
+C:\Users\usman\OneDrive\Рабочий стол\InternetProvider\InternetProvider\bin\Debug\netcoreapp3.1\Microsoft.CodeAnalysis.Workspaces.dll
+C:\Users\usman\OneDrive\Рабочий стол\InternetProvider\InternetProvider\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.dll
+C:\Users\usman\OneDrive\Рабочий стол\InternetProvider\InternetProvider\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.Contracts.dll
+C:\Users\usman\OneDrive\Рабочий стол\InternetProvider\InternetProvider\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.Core.dll
+C:\Users\usman\OneDrive\Рабочий стол\InternetProvider\InternetProvider\bin\Debug\netcoreapp3.1\dotnet-aspnet-codegenerator-design.dll
+C:\Users\usman\OneDrive\Рабочий стол\InternetProvider\InternetProvider\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.EntityFrameworkCore.dll
+C:\Users\usman\OneDrive\Рабочий стол\InternetProvider\InternetProvider\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.Templating.dll
+C:\Users\usman\OneDrive\Рабочий стол\InternetProvider\InternetProvider\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.Utils.dll
+C:\Users\usman\OneDrive\Рабочий стол\InternetProvider\InternetProvider\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGenerators.Mvc.dll
+C:\Users\usman\OneDrive\Рабочий стол\InternetProvider\InternetProvider\bin\Debug\netcoreapp3.1\Newtonsoft.Json.dll
+C:\Users\usman\OneDrive\Рабочий стол\InternetProvider\InternetProvider\bin\Debug\netcoreapp3.1\Npgsql.dll
+C:\Users\usman\OneDrive\Рабочий стол\InternetProvider\InternetProvider\bin\Debug\netcoreapp3.1\NuGet.Frameworks.dll
+C:\Users\usman\OneDrive\Рабочий стол\InternetProvider\InternetProvider\bin\Debug\netcoreapp3.1\System.Composition.AttributedModel.dll
+C:\Users\usman\OneDrive\Рабочий стол\InternetProvider\InternetProvider\bin\Debug\netcoreapp3.1\System.Composition.Convention.dll
+C:\Users\usman\OneDrive\Рабочий стол\InternetProvider\InternetProvider\bin\Debug\netcoreapp3.1\System.Composition.Hosting.dll
+C:\Users\usman\OneDrive\Рабочий стол\InternetProvider\InternetProvider\bin\Debug\netcoreapp3.1\System.Composition.Runtime.dll
+C:\Users\usman\OneDrive\Рабочий стол\InternetProvider\InternetProvider\bin\Debug\netcoreapp3.1\System.Composition.TypedParts.dll
+C:\Users\usman\OneDrive\Рабочий стол\InternetProvider\InternetProvider\bin\Debug\netcoreapp3.1\cs\Microsoft.CodeAnalysis.resources.dll
+C:\Users\usman\OneDrive\Рабочий стол\InternetProvider\InternetProvider\bin\Debug\netcoreapp3.1\de\Microsoft.CodeAnalysis.resources.dll
+C:\Users\usman\OneDrive\Рабочий стол\InternetProvider\InternetProvider\bin\Debug\netcoreapp3.1\es\Microsoft.CodeAnalysis.resources.dll
+C:\Users\usman\OneDrive\Рабочий стол\InternetProvider\InternetProvider\bin\Debug\netcoreapp3.1\fr\Microsoft.CodeAnalysis.resources.dll
+C:\Users\usman\OneDrive\Рабочий стол\InternetProvider\InternetProvider\bin\Debug\netcoreapp3.1\it\Microsoft.CodeAnalysis.resources.dll
+C:\Users\usman\OneDrive\Рабочий стол\InternetProvider\InternetProvider\bin\Debug\netcoreapp3.1\ja\Microsoft.CodeAnalysis.resources.dll
+C:\Users\usman\OneDrive\Рабочий стол\InternetProvider\InternetProvider\bin\Debug\netcoreapp3.1\ko\Microsoft.CodeAnalysis.resources.dll
+C:\Users\usman\OneDrive\Рабочий стол\InternetProvider\InternetProvider\bin\Debug\netcoreapp3.1\pl\Microsoft.CodeAnalysis.resources.dll
+C:\Users\usman\OneDrive\Рабочий стол\InternetProvider\InternetProvider\bin\Debug\netcoreapp3.1\pt-BR\Microsoft.CodeAnalysis.resources.dll
+C:\Users\usman\OneDrive\Рабочий стол\InternetProvider\InternetProvider\bin\Debug\netcoreapp3.1\ru\Microsoft.CodeAnalysis.resources.dll
+C:\Users\usman\OneDrive\Рабочий стол\InternetProvider\InternetProvider\bin\Debug\netcoreapp3.1\tr\Microsoft.CodeAnalysis.resources.dll
+C:\Users\usman\OneDrive\Рабочий стол\InternetProvider\InternetProvider\bin\Debug\netcoreapp3.1\zh-Hans\Microsoft.CodeAnalysis.resources.dll
+C:\Users\usman\OneDrive\Рабочий стол\InternetProvider\InternetProvider\bin\Debug\netcoreapp3.1\zh-Hant\Microsoft.CodeAnalysis.resources.dll
+C:\Users\usman\OneDrive\Рабочий стол\InternetProvider\InternetProvider\bin\Debug\netcoreapp3.1\cs\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\usman\OneDrive\Рабочий стол\InternetProvider\InternetProvider\bin\Debug\netcoreapp3.1\de\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\usman\OneDrive\Рабочий стол\InternetProvider\InternetProvider\bin\Debug\netcoreapp3.1\es\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\usman\OneDrive\Рабочий стол\InternetProvider\InternetProvider\bin\Debug\netcoreapp3.1\fr\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\usman\OneDrive\Рабочий стол\InternetProvider\InternetProvider\bin\Debug\netcoreapp3.1\it\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\usman\OneDrive\Рабочий стол\InternetProvider\InternetProvider\bin\Debug\netcoreapp3.1\ja\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\usman\OneDrive\Рабочий стол\InternetProvider\InternetProvider\bin\Debug\netcoreapp3.1\ko\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\usman\OneDrive\Рабочий стол\InternetProvider\InternetProvider\bin\Debug\netcoreapp3.1\pl\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\usman\OneDrive\Рабочий стол\InternetProvider\InternetProvider\bin\Debug\netcoreapp3.1\pt-BR\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\usman\OneDrive\Рабочий стол\InternetProvider\InternetProvider\bin\Debug\netcoreapp3.1\ru\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\usman\OneDrive\Рабочий стол\InternetProvider\InternetProvider\bin\Debug\netcoreapp3.1\tr\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\usman\OneDrive\Рабочий стол\InternetProvider\InternetProvider\bin\Debug\netcoreapp3.1\zh-Hans\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\usman\OneDrive\Рабочий стол\InternetProvider\InternetProvider\bin\Debug\netcoreapp3.1\zh-Hant\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\usman\OneDrive\Рабочий стол\InternetProvider\InternetProvider\bin\Debug\netcoreapp3.1\cs\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\usman\OneDrive\Рабочий стол\InternetProvider\InternetProvider\bin\Debug\netcoreapp3.1\de\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\usman\OneDrive\Рабочий стол\InternetProvider\InternetProvider\bin\Debug\netcoreapp3.1\es\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\usman\OneDrive\Рабочий стол\InternetProvider\InternetProvider\bin\Debug\netcoreapp3.1\fr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\usman\OneDrive\Рабочий стол\InternetProvider\InternetProvider\bin\Debug\netcoreapp3.1\it\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\usman\OneDrive\Рабочий стол\InternetProvider\InternetProvider\bin\Debug\netcoreapp3.1\ja\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\usman\OneDrive\Рабочий стол\InternetProvider\InternetProvider\bin\Debug\netcoreapp3.1\ko\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\usman\OneDrive\Рабочий стол\InternetProvider\InternetProvider\bin\Debug\netcoreapp3.1\pl\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\usman\OneDrive\Рабочий стол\InternetProvider\InternetProvider\bin\Debug\netcoreapp3.1\pt-BR\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\usman\OneDrive\Рабочий стол\InternetProvider\InternetProvider\bin\Debug\netcoreapp3.1\ru\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\usman\OneDrive\Рабочий стол\InternetProvider\InternetProvider\bin\Debug\netcoreapp3.1\tr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\usman\OneDrive\Рабочий стол\InternetProvider\InternetProvider\bin\Debug\netcoreapp3.1\zh-Hans\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\usman\OneDrive\Рабочий стол\InternetProvider\InternetProvider\bin\Debug\netcoreapp3.1\zh-Hant\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\usman\OneDrive\Рабочий стол\InternetProvider\InternetProvider\bin\Debug\netcoreapp3.1\cs\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\usman\OneDrive\Рабочий стол\InternetProvider\InternetProvider\bin\Debug\netcoreapp3.1\de\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\usman\OneDrive\Рабочий стол\InternetProvider\InternetProvider\bin\Debug\netcoreapp3.1\es\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\usman\OneDrive\Рабочий стол\InternetProvider\InternetProvider\bin\Debug\netcoreapp3.1\fr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\usman\OneDrive\Рабочий стол\InternetProvider\InternetProvider\bin\Debug\netcoreapp3.1\it\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\usman\OneDrive\Рабочий стол\InternetProvider\InternetProvider\bin\Debug\netcoreapp3.1\ja\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\usman\OneDrive\Рабочий стол\InternetProvider\InternetProvider\bin\Debug\netcoreapp3.1\ko\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\usman\OneDrive\Рабочий стол\InternetProvider\InternetProvider\bin\Debug\netcoreapp3.1\pl\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\usman\OneDrive\Рабочий стол\InternetProvider\InternetProvider\bin\Debug\netcoreapp3.1\pt-BR\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\usman\OneDrive\Рабочий стол\InternetProvider\InternetProvider\bin\Debug\netcoreapp3.1\ru\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\usman\OneDrive\Рабочий стол\InternetProvider\InternetProvider\bin\Debug\netcoreapp3.1\tr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\usman\OneDrive\Рабочий стол\InternetProvider\InternetProvider\bin\Debug\netcoreapp3.1\zh-Hans\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\usman\OneDrive\Рабочий стол\InternetProvider\InternetProvider\bin\Debug\netcoreapp3.1\zh-Hant\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\usman\OneDrive\Рабочий стол\InternetProvider\InternetProvider\bin\Debug\netcoreapp3.1\Models.dll
+C:\Users\usman\OneDrive\Рабочий стол\InternetProvider\InternetProvider\bin\Debug\netcoreapp3.1\Repository.dll
+C:\Users\usman\OneDrive\Рабочий стол\InternetProvider\InternetProvider\bin\Debug\netcoreapp3.1\Security.dll
+C:\Users\usman\OneDrive\Рабочий стол\InternetProvider\InternetProvider\bin\Debug\netcoreapp3.1\Repository.pdb
+C:\Users\usman\OneDrive\Рабочий стол\InternetProvider\InternetProvider\bin\Debug\netcoreapp3.1\Security.pdb
+C:\Users\usman\OneDrive\Рабочий стол\InternetProvider\InternetProvider\bin\Debug\netcoreapp3.1\Models.pdb
+C:\Users\usman\OneDrive\Рабочий стол\InternetProvider\InternetProvider\obj\Debug\netcoreapp3.1\InternetProvider.csprojAssemblyReference.cache
+C:\Users\usman\OneDrive\Рабочий стол\InternetProvider\InternetProvider\obj\Debug\netcoreapp3.1\InternetProvider.AssemblyInfoInputs.cache
+C:\Users\usman\OneDrive\Рабочий стол\InternetProvider\InternetProvider\obj\Debug\netcoreapp3.1\InternetProvider.AssemblyInfo.cs
+C:\Users\usman\OneDrive\Рабочий стол\InternetProvider\InternetProvider\obj\Debug\netcoreapp3.1\InternetProvider.csproj.CoreCompileInputs.cache
+C:\Users\usman\OneDrive\Рабочий стол\InternetProvider\InternetProvider\obj\Debug\netcoreapp3.1\InternetProvider.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\usman\OneDrive\Рабочий стол\InternetProvider\InternetProvider\obj\Debug\netcoreapp3.1\InternetProvider.RazorAssemblyInfo.cache
+C:\Users\usman\OneDrive\Рабочий стол\InternetProvider\InternetProvider\obj\Debug\netcoreapp3.1\InternetProvider.RazorAssemblyInfo.cs
+C:\Users\usman\OneDrive\Рабочий стол\InternetProvider\InternetProvider\obj\Debug\netcoreapp3.1\staticwebassets\InternetProvider.StaticWebAssets.Manifest.cache
+C:\Users\usman\OneDrive\Рабочий стол\InternetProvider\InternetProvider\obj\Debug\netcoreapp3.1\staticwebassets\InternetProvider.StaticWebAssets.xml
+C:\Users\usman\OneDrive\Рабочий стол\InternetProvider\InternetProvider\obj\Debug\netcoreapp3.1\scopedcss\bundle\InternetProvider.styles.css
+C:\Users\usman\OneDrive\Рабочий стол\InternetProvider\InternetProvider\obj\Debug\netcoreapp3.1\InternetProvider.TagHelpers.input.cache
+C:\Users\usman\OneDrive\Рабочий стол\InternetProvider\InternetProvider\obj\Debug\netcoreapp3.1\InternetProvider.TagHelpers.output.cache
+C:\Users\usman\OneDrive\Рабочий стол\InternetProvider\InternetProvider\obj\Debug\netcoreapp3.1\InternetProvider.RazorCoreGenerate.cache
+C:\Users\usman\OneDrive\Рабочий стол\InternetProvider\InternetProvider\obj\Debug\netcoreapp3.1\Razor\Views\Admin\CreateTariff.cshtml.g.cs
+C:\Users\usman\OneDrive\Рабочий стол\InternetProvider\InternetProvider\obj\Debug\netcoreapp3.1\Razor\Views\Admin\EditUser.cshtml.g.cs
+C:\Users\usman\OneDrive\Рабочий стол\InternetProvider\InternetProvider\obj\Debug\netcoreapp3.1\Razor\Views\Admin\UserList.cshtml.g.cs
+C:\Users\usman\OneDrive\Рабочий стол\InternetProvider\InternetProvider\obj\Debug\netcoreapp3.1\Razor\Views\Home\Index.cshtml.g.cs
+C:\Users\usman\OneDrive\Рабочий стол\InternetProvider\InternetProvider\obj\Debug\netcoreapp3.1\Razor\Views\Home\Privacy.cshtml.g.cs
+C:\Users\usman\OneDrive\Рабочий стол\InternetProvider\InternetProvider\obj\Debug\netcoreapp3.1\Razor\Views\Shared\Error.cshtml.g.cs
+C:\Users\usman\OneDrive\Рабочий стол\InternetProvider\InternetProvider\obj\Debug\netcoreapp3.1\Razor\Views\Shared\_Layout.cshtml.g.cs
+C:\Users\usman\OneDrive\Рабочий стол\InternetProvider\InternetProvider\obj\Debug\netcoreapp3.1\Razor\Views\Shared\_ValidationScriptsPartial.cshtml.g.cs
+C:\Users\usman\OneDrive\Рабочий стол\InternetProvider\InternetProvider\obj\Debug\netcoreapp3.1\Razor\Views\Tariff\TariffDetails.cshtml.g.cs
+C:\Users\usman\OneDrive\Рабочий стол\InternetProvider\InternetProvider\obj\Debug\netcoreapp3.1\Razor\Views\Tariff\TariffList.cshtml.g.cs
+C:\Users\usman\OneDrive\Рабочий стол\InternetProvider\InternetProvider\obj\Debug\netcoreapp3.1\Razor\Views\User\Authorization.cshtml.g.cs
+C:\Users\usman\OneDrive\Рабочий стол\InternetProvider\InternetProvider\obj\Debug\netcoreapp3.1\Razor\Views\User\PersonalPage.cshtml.g.cs
+C:\Users\usman\OneDrive\Рабочий стол\InternetProvider\InternetProvider\obj\Debug\netcoreapp3.1\Razor\Views\User\Registration.cshtml.g.cs
+C:\Users\usman\OneDrive\Рабочий стол\InternetProvider\InternetProvider\obj\Debug\netcoreapp3.1\Razor\Views\_ViewImports.cshtml.g.cs
+C:\Users\usman\OneDrive\Рабочий стол\InternetProvider\InternetProvider\obj\Debug\netcoreapp3.1\Razor\Views\_ViewStart.cshtml.g.cs
+C:\Users\usman\OneDrive\Рабочий стол\InternetProvider\InternetProvider\obj\Debug\netcoreapp3.1\InternetProvider.RazorTargetAssemblyInfo.cache
+C:\Users\usman\OneDrive\Рабочий стол\InternetProvider\InternetProvider\obj\Debug\netcoreapp3.1\InternetProvider.RazorTargetAssemblyInfo.cs
+C:\Users\usman\OneDrive\Рабочий стол\InternetProvider\InternetProvider\obj\Debug\netcoreapp3.1\InternetProvider.Views.pdb
+C:\Users\usman\OneDrive\Рабочий стол\InternetProvider\InternetProvider\obj\Debug\netcoreapp3.1\InternetProvider.csproj.CopyComplete
+C:\Users\usman\OneDrive\Рабочий стол\InternetProvider\InternetProvider\obj\Debug\netcoreapp3.1\InternetProvider.dll
+C:\Users\usman\OneDrive\Рабочий стол\InternetProvider\InternetProvider\obj\Debug\netcoreapp3.1\InternetProvider.pdb
+C:\Users\usman\OneDrive\Рабочий стол\InternetProvider\InternetProvider\obj\Debug\netcoreapp3.1\InternetProvider.genruntimeconfig.cache
+C:\Users\usman\OneDrive\Рабочий стол\для учёбы\InternetProvider\InternetProvider\bin\Debug\netcoreapp3.1\appsettings.Development.json
+C:\Users\usman\OneDrive\Рабочий стол\для учёбы\InternetProvider\InternetProvider\bin\Debug\netcoreapp3.1\appsettings.json
+C:\Users\usman\OneDrive\Рабочий стол\для учёбы\InternetProvider\InternetProvider\bin\Debug\netcoreapp3.1\libman.json
+C:\Users\usman\OneDrive\Рабочий стол\для учёбы\InternetProvider\InternetProvider\bin\Debug\netcoreapp3.1\InternetProvider.exe
+C:\Users\usman\OneDrive\Рабочий стол\для учёбы\InternetProvider\InternetProvider\bin\Debug\netcoreapp3.1\InternetProvider.deps.json
+C:\Users\usman\OneDrive\Рабочий стол\для учёбы\InternetProvider\InternetProvider\bin\Debug\netcoreapp3.1\InternetProvider.runtimeconfig.json
+C:\Users\usman\OneDrive\Рабочий стол\для учёбы\InternetProvider\InternetProvider\bin\Debug\netcoreapp3.1\InternetProvider.runtimeconfig.dev.json
+C:\Users\usman\OneDrive\Рабочий стол\для учёбы\InternetProvider\InternetProvider\bin\Debug\netcoreapp3.1\InternetProvider.dll
+C:\Users\usman\OneDrive\Рабочий стол\для учёбы\InternetProvider\InternetProvider\bin\Debug\netcoreapp3.1\InternetProvider.pdb
+C:\Users\usman\OneDrive\Рабочий стол\для учёбы\InternetProvider\InternetProvider\bin\Debug\netcoreapp3.1\InternetProvider.Views.dll
+C:\Users\usman\OneDrive\Рабочий стол\для учёбы\InternetProvider\InternetProvider\bin\Debug\netcoreapp3.1\InternetProvider.Views.pdb
+C:\Users\usman\OneDrive\Рабочий стол\для учёбы\InternetProvider\InternetProvider\bin\Debug\netcoreapp3.1\linq2db.dll
+C:\Users\usman\OneDrive\Рабочий стол\для учёбы\InternetProvider\InternetProvider\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Razor.Language.dll
+C:\Users\usman\OneDrive\Рабочий стол\для учёбы\InternetProvider\InternetProvider\bin\Debug\netcoreapp3.1\Microsoft.CodeAnalysis.dll
+C:\Users\usman\OneDrive\Рабочий стол\для учёбы\InternetProvider\InternetProvider\bin\Debug\netcoreapp3.1\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\usman\OneDrive\Рабочий стол\для учёбы\InternetProvider\InternetProvider\bin\Debug\netcoreapp3.1\Microsoft.CodeAnalysis.CSharp.Workspaces.dll
+C:\Users\usman\OneDrive\Рабочий стол\для учёбы\InternetProvider\InternetProvider\bin\Debug\netcoreapp3.1\Microsoft.CodeAnalysis.Razor.dll
+C:\Users\usman\OneDrive\Рабочий стол\для учёбы\InternetProvider\InternetProvider\bin\Debug\netcoreapp3.1\Microsoft.CodeAnalysis.Workspaces.dll
+C:\Users\usman\OneDrive\Рабочий стол\для учёбы\InternetProvider\InternetProvider\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.dll
+C:\Users\usman\OneDrive\Рабочий стол\для учёбы\InternetProvider\InternetProvider\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.Contracts.dll
+C:\Users\usman\OneDrive\Рабочий стол\для учёбы\InternetProvider\InternetProvider\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.Core.dll
+C:\Users\usman\OneDrive\Рабочий стол\для учёбы\InternetProvider\InternetProvider\bin\Debug\netcoreapp3.1\dotnet-aspnet-codegenerator-design.dll
+C:\Users\usman\OneDrive\Рабочий стол\для учёбы\InternetProvider\InternetProvider\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.EntityFrameworkCore.dll
+C:\Users\usman\OneDrive\Рабочий стол\для учёбы\InternetProvider\InternetProvider\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.Templating.dll
+C:\Users\usman\OneDrive\Рабочий стол\для учёбы\InternetProvider\InternetProvider\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.Utils.dll
+C:\Users\usman\OneDrive\Рабочий стол\для учёбы\InternetProvider\InternetProvider\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGenerators.Mvc.dll
+C:\Users\usman\OneDrive\Рабочий стол\для учёбы\InternetProvider\InternetProvider\bin\Debug\netcoreapp3.1\Newtonsoft.Json.dll
+C:\Users\usman\OneDrive\Рабочий стол\для учёбы\InternetProvider\InternetProvider\bin\Debug\netcoreapp3.1\Npgsql.dll
+C:\Users\usman\OneDrive\Рабочий стол\для учёбы\InternetProvider\InternetProvider\bin\Debug\netcoreapp3.1\NuGet.Frameworks.dll
+C:\Users\usman\OneDrive\Рабочий стол\для учёбы\InternetProvider\InternetProvider\bin\Debug\netcoreapp3.1\System.Composition.AttributedModel.dll
+C:\Users\usman\OneDrive\Рабочий стол\для учёбы\InternetProvider\InternetProvider\bin\Debug\netcoreapp3.1\System.Composition.Convention.dll
+C:\Users\usman\OneDrive\Рабочий стол\для учёбы\InternetProvider\InternetProvider\bin\Debug\netcoreapp3.1\System.Composition.Hosting.dll
+C:\Users\usman\OneDrive\Рабочий стол\для учёбы\InternetProvider\InternetProvider\bin\Debug\netcoreapp3.1\System.Composition.Runtime.dll
+C:\Users\usman\OneDrive\Рабочий стол\для учёбы\InternetProvider\InternetProvider\bin\Debug\netcoreapp3.1\System.Composition.TypedParts.dll
+C:\Users\usman\OneDrive\Рабочий стол\для учёбы\InternetProvider\InternetProvider\bin\Debug\netcoreapp3.1\cs\Microsoft.CodeAnalysis.resources.dll
+C:\Users\usman\OneDrive\Рабочий стол\для учёбы\InternetProvider\InternetProvider\bin\Debug\netcoreapp3.1\de\Microsoft.CodeAnalysis.resources.dll
+C:\Users\usman\OneDrive\Рабочий стол\для учёбы\InternetProvider\InternetProvider\bin\Debug\netcoreapp3.1\es\Microsoft.CodeAnalysis.resources.dll
+C:\Users\usman\OneDrive\Рабочий стол\для учёбы\InternetProvider\InternetProvider\bin\Debug\netcoreapp3.1\fr\Microsoft.CodeAnalysis.resources.dll
+C:\Users\usman\OneDrive\Рабочий стол\для учёбы\InternetProvider\InternetProvider\bin\Debug\netcoreapp3.1\it\Microsoft.CodeAnalysis.resources.dll
+C:\Users\usman\OneDrive\Рабочий стол\для учёбы\InternetProvider\InternetProvider\bin\Debug\netcoreapp3.1\ja\Microsoft.CodeAnalysis.resources.dll
+C:\Users\usman\OneDrive\Рабочий стол\для учёбы\InternetProvider\InternetProvider\bin\Debug\netcoreapp3.1\ko\Microsoft.CodeAnalysis.resources.dll
+C:\Users\usman\OneDrive\Рабочий стол\для учёбы\InternetProvider\InternetProvider\bin\Debug\netcoreapp3.1\pl\Microsoft.CodeAnalysis.resources.dll
+C:\Users\usman\OneDrive\Рабочий стол\для учёбы\InternetProvider\InternetProvider\bin\Debug\netcoreapp3.1\pt-BR\Microsoft.CodeAnalysis.resources.dll
+C:\Users\usman\OneDrive\Рабочий стол\для учёбы\InternetProvider\InternetProvider\bin\Debug\netcoreapp3.1\ru\Microsoft.CodeAnalysis.resources.dll
+C:\Users\usman\OneDrive\Рабочий стол\для учёбы\InternetProvider\InternetProvider\bin\Debug\netcoreapp3.1\tr\Microsoft.CodeAnalysis.resources.dll
+C:\Users\usman\OneDrive\Рабочий стол\для учёбы\InternetProvider\InternetProvider\bin\Debug\netcoreapp3.1\zh-Hans\Microsoft.CodeAnalysis.resources.dll
+C:\Users\usman\OneDrive\Рабочий стол\для учёбы\InternetProvider\InternetProvider\bin\Debug\netcoreapp3.1\zh-Hant\Microsoft.CodeAnalysis.resources.dll
+C:\Users\usman\OneDrive\Рабочий стол\для учёбы\InternetProvider\InternetProvider\bin\Debug\netcoreapp3.1\cs\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\usman\OneDrive\Рабочий стол\для учёбы\InternetProvider\InternetProvider\bin\Debug\netcoreapp3.1\de\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\usman\OneDrive\Рабочий стол\для учёбы\InternetProvider\InternetProvider\bin\Debug\netcoreapp3.1\es\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\usman\OneDrive\Рабочий стол\для учёбы\InternetProvider\InternetProvider\bin\Debug\netcoreapp3.1\fr\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\usman\OneDrive\Рабочий стол\для учёбы\InternetProvider\InternetProvider\bin\Debug\netcoreapp3.1\it\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\usman\OneDrive\Рабочий стол\для учёбы\InternetProvider\InternetProvider\bin\Debug\netcoreapp3.1\ja\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\usman\OneDrive\Рабочий стол\для учёбы\InternetProvider\InternetProvider\bin\Debug\netcoreapp3.1\ko\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\usman\OneDrive\Рабочий стол\для учёбы\InternetProvider\InternetProvider\bin\Debug\netcoreapp3.1\pl\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\usman\OneDrive\Рабочий стол\для учёбы\InternetProvider\InternetProvider\bin\Debug\netcoreapp3.1\pt-BR\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\usman\OneDrive\Рабочий стол\для учёбы\InternetProvider\InternetProvider\bin\Debug\netcoreapp3.1\ru\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\usman\OneDrive\Рабочий стол\для учёбы\InternetProvider\InternetProvider\bin\Debug\netcoreapp3.1\tr\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\usman\OneDrive\Рабочий стол\для учёбы\InternetProvider\InternetProvider\bin\Debug\netcoreapp3.1\zh-Hans\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\usman\OneDrive\Рабочий стол\для учёбы\InternetProvider\InternetProvider\bin\Debug\netcoreapp3.1\zh-Hant\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\usman\OneDrive\Рабочий стол\для учёбы\InternetProvider\InternetProvider\bin\Debug\netcoreapp3.1\cs\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\usman\OneDrive\Рабочий стол\для учёбы\InternetProvider\InternetProvider\bin\Debug\netcoreapp3.1\de\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\usman\OneDrive\Рабочий стол\для учёбы\InternetProvider\InternetProvider\bin\Debug\netcoreapp3.1\es\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\usman\OneDrive\Рабочий стол\для учёбы\InternetProvider\InternetProvider\bin\Debug\netcoreapp3.1\fr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\usman\OneDrive\Рабочий стол\для учёбы\InternetProvider\InternetProvider\bin\Debug\netcoreapp3.1\it\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\usman\OneDrive\Рабочий стол\для учёбы\InternetProvider\InternetProvider\bin\Debug\netcoreapp3.1\ja\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\usman\OneDrive\Рабочий стол\для учёбы\InternetProvider\InternetProvider\bin\Debug\netcoreapp3.1\ko\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\usman\OneDrive\Рабочий стол\для учёбы\InternetProvider\InternetProvider\bin\Debug\netcoreapp3.1\pl\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\usman\OneDrive\Рабочий стол\для учёбы\InternetProvider\InternetProvider\bin\Debug\netcoreapp3.1\pt-BR\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\usman\OneDrive\Рабочий стол\для учёбы\InternetProvider\InternetProvider\bin\Debug\netcoreapp3.1\ru\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\usman\OneDrive\Рабочий стол\для учёбы\InternetProvider\InternetProvider\bin\Debug\netcoreapp3.1\tr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\usman\OneDrive\Рабочий стол\для учёбы\InternetProvider\InternetProvider\bin\Debug\netcoreapp3.1\zh-Hans\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\usman\OneDrive\Рабочий стол\для учёбы\InternetProvider\InternetProvider\bin\Debug\netcoreapp3.1\zh-Hant\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\usman\OneDrive\Рабочий стол\для учёбы\InternetProvider\InternetProvider\bin\Debug\netcoreapp3.1\cs\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\usman\OneDrive\Рабочий стол\для учёбы\InternetProvider\InternetProvider\bin\Debug\netcoreapp3.1\de\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\usman\OneDrive\Рабочий стол\для учёбы\InternetProvider\InternetProvider\bin\Debug\netcoreapp3.1\es\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\usman\OneDrive\Рабочий стол\для учёбы\InternetProvider\InternetProvider\bin\Debug\netcoreapp3.1\fr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\usman\OneDrive\Рабочий стол\для учёбы\InternetProvider\InternetProvider\bin\Debug\netcoreapp3.1\it\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\usman\OneDrive\Рабочий стол\для учёбы\InternetProvider\InternetProvider\bin\Debug\netcoreapp3.1\ja\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\usman\OneDrive\Рабочий стол\для учёбы\InternetProvider\InternetProvider\bin\Debug\netcoreapp3.1\ko\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\usman\OneDrive\Рабочий стол\для учёбы\InternetProvider\InternetProvider\bin\Debug\netcoreapp3.1\pl\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\usman\OneDrive\Рабочий стол\для учёбы\InternetProvider\InternetProvider\bin\Debug\netcoreapp3.1\pt-BR\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\usman\OneDrive\Рабочий стол\для учёбы\InternetProvider\InternetProvider\bin\Debug\netcoreapp3.1\ru\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\usman\OneDrive\Рабочий стол\для учёбы\InternetProvider\InternetProvider\bin\Debug\netcoreapp3.1\tr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\usman\OneDrive\Рабочий стол\для учёбы\InternetProvider\InternetProvider\bin\Debug\netcoreapp3.1\zh-Hans\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\usman\OneDrive\Рабочий стол\для учёбы\InternetProvider\InternetProvider\bin\Debug\netcoreapp3.1\zh-Hant\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\usman\OneDrive\Рабочий стол\для учёбы\InternetProvider\InternetProvider\bin\Debug\netcoreapp3.1\Models.dll
+C:\Users\usman\OneDrive\Рабочий стол\для учёбы\InternetProvider\InternetProvider\bin\Debug\netcoreapp3.1\Repository.dll
+C:\Users\usman\OneDrive\Рабочий стол\для учёбы\InternetProvider\InternetProvider\bin\Debug\netcoreapp3.1\Security.dll
+C:\Users\usman\OneDrive\Рабочий стол\для учёбы\InternetProvider\InternetProvider\bin\Debug\netcoreapp3.1\Repository.pdb
+C:\Users\usman\OneDrive\Рабочий стол\для учёбы\InternetProvider\InternetProvider\bin\Debug\netcoreapp3.1\Security.pdb
+C:\Users\usman\OneDrive\Рабочий стол\для учёбы\InternetProvider\InternetProvider\bin\Debug\netcoreapp3.1\Models.pdb
+C:\Users\usman\OneDrive\Рабочий стол\для учёбы\InternetProvider\InternetProvider\obj\Debug\netcoreapp3.1\InternetProvider.csprojAssemblyReference.cache
+C:\Users\usman\OneDrive\Рабочий стол\для учёбы\InternetProvider\InternetProvider\obj\Debug\netcoreapp3.1\InternetProvider.AssemblyInfoInputs.cache
+C:\Users\usman\OneDrive\Рабочий стол\для учёбы\InternetProvider\InternetProvider\obj\Debug\netcoreapp3.1\InternetProvider.AssemblyInfo.cs
+C:\Users\usman\OneDrive\Рабочий стол\для учёбы\InternetProvider\InternetProvider\obj\Debug\netcoreapp3.1\InternetProvider.csproj.CoreCompileInputs.cache
+C:\Users\usman\OneDrive\Рабочий стол\для учёбы\InternetProvider\InternetProvider\obj\Debug\netcoreapp3.1\InternetProvider.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\usman\OneDrive\Рабочий стол\для учёбы\InternetProvider\InternetProvider\obj\Debug\netcoreapp3.1\InternetProvider.RazorAssemblyInfo.cache
+C:\Users\usman\OneDrive\Рабочий стол\для учёбы\InternetProvider\InternetProvider\obj\Debug\netcoreapp3.1\InternetProvider.RazorAssemblyInfo.cs
+C:\Users\usman\OneDrive\Рабочий стол\для учёбы\InternetProvider\InternetProvider\obj\Debug\netcoreapp3.1\staticwebassets\InternetProvider.StaticWebAssets.Manifest.cache
+C:\Users\usman\OneDrive\Рабочий стол\для учёбы\InternetProvider\InternetProvider\obj\Debug\netcoreapp3.1\staticwebassets\InternetProvider.StaticWebAssets.xml
+C:\Users\usman\OneDrive\Рабочий стол\для учёбы\InternetProvider\InternetProvider\obj\Debug\netcoreapp3.1\scopedcss\bundle\InternetProvider.styles.css
+C:\Users\usman\OneDrive\Рабочий стол\для учёбы\InternetProvider\InternetProvider\obj\Debug\netcoreapp3.1\InternetProvider.TagHelpers.input.cache
+C:\Users\usman\OneDrive\Рабочий стол\для учёбы\InternetProvider\InternetProvider\obj\Debug\netcoreapp3.1\InternetProvider.TagHelpers.output.cache
+C:\Users\usman\OneDrive\Рабочий стол\для учёбы\InternetProvider\InternetProvider\obj\Debug\netcoreapp3.1\InternetProvider.RazorCoreGenerate.cache
+C:\Users\usman\OneDrive\Рабочий стол\для учёбы\InternetProvider\InternetProvider\obj\Debug\netcoreapp3.1\Razor\Views\Admin\CreateTariff.cshtml.g.cs
+C:\Users\usman\OneDrive\Рабочий стол\для учёбы\InternetProvider\InternetProvider\obj\Debug\netcoreapp3.1\Razor\Views\Admin\EditUser.cshtml.g.cs
+C:\Users\usman\OneDrive\Рабочий стол\для учёбы\InternetProvider\InternetProvider\obj\Debug\netcoreapp3.1\Razor\Views\Admin\UserList.cshtml.g.cs
+C:\Users\usman\OneDrive\Рабочий стол\для учёбы\InternetProvider\InternetProvider\obj\Debug\netcoreapp3.1\Razor\Views\Home\Index.cshtml.g.cs
+C:\Users\usman\OneDrive\Рабочий стол\для учёбы\InternetProvider\InternetProvider\obj\Debug\netcoreapp3.1\Razor\Views\Home\Privacy.cshtml.g.cs
+C:\Users\usman\OneDrive\Рабочий стол\для учёбы\InternetProvider\InternetProvider\obj\Debug\netcoreapp3.1\Razor\Views\Shared\Error.cshtml.g.cs
+C:\Users\usman\OneDrive\Рабочий стол\для учёбы\InternetProvider\InternetProvider\obj\Debug\netcoreapp3.1\Razor\Views\Shared\_Layout.cshtml.g.cs
+C:\Users\usman\OneDrive\Рабочий стол\для учёбы\InternetProvider\InternetProvider\obj\Debug\netcoreapp3.1\Razor\Views\Shared\_ValidationScriptsPartial.cshtml.g.cs
+C:\Users\usman\OneDrive\Рабочий стол\для учёбы\InternetProvider\InternetProvider\obj\Debug\netcoreapp3.1\Razor\Views\Tariff\TariffDetails.cshtml.g.cs
+C:\Users\usman\OneDrive\Рабочий стол\для учёбы\InternetProvider\InternetProvider\obj\Debug\netcoreapp3.1\Razor\Views\Tariff\TariffList.cshtml.g.cs
+C:\Users\usman\OneDrive\Рабочий стол\для учёбы\InternetProvider\InternetProvider\obj\Debug\netcoreapp3.1\Razor\Views\User\Authorization.cshtml.g.cs
+C:\Users\usman\OneDrive\Рабочий стол\для учёбы\InternetProvider\InternetProvider\obj\Debug\netcoreapp3.1\Razor\Views\User\PersonalPage.cshtml.g.cs
+C:\Users\usman\OneDrive\Рабочий стол\для учёбы\InternetProvider\InternetProvider\obj\Debug\netcoreapp3.1\Razor\Views\User\Registration.cshtml.g.cs
+C:\Users\usman\OneDrive\Рабочий стол\для учёбы\InternetProvider\InternetProvider\obj\Debug\netcoreapp3.1\Razor\Views\_ViewImports.cshtml.g.cs
+C:\Users\usman\OneDrive\Рабочий стол\для учёбы\InternetProvider\InternetProvider\obj\Debug\netcoreapp3.1\Razor\Views\_ViewStart.cshtml.g.cs
+C:\Users\usman\OneDrive\Рабочий стол\для учёбы\InternetProvider\InternetProvider\obj\Debug\netcoreapp3.1\InternetProvider.RazorTargetAssemblyInfo.cache
+C:\Users\usman\OneDrive\Рабочий стол\для учёбы\InternetProvider\InternetProvider\obj\Debug\netcoreapp3.1\InternetProvider.RazorTargetAssemblyInfo.cs
+C:\Users\usman\OneDrive\Рабочий стол\для учёбы\InternetProvider\InternetProvider\obj\Debug\netcoreapp3.1\InternetProvider.Views.pdb
+C:\Users\usman\OneDrive\Рабочий стол\для учёбы\InternetProvider\InternetProvider\obj\Debug\netcoreapp3.1\InternetProvider.csproj.CopyComplete
+C:\Users\usman\OneDrive\Рабочий стол\для учёбы\InternetProvider\InternetProvider\obj\Debug\netcoreapp3.1\InternetProvider.dll
+C:\Users\usman\OneDrive\Рабочий стол\для учёбы\InternetProvider\InternetProvider\obj\Debug\netcoreapp3.1\InternetProvider.pdb
+C:\Users\usman\OneDrive\Рабочий стол\для учёбы\InternetProvider\InternetProvider\obj\Debug\netcoreapp3.1\InternetProvider.genruntimeconfig.cache
+C:\Users\aigyl\Desktop\2 курс\1 семестр\инфа\InternetProvider\InternetProvider\bin\Debug\netcoreapp3.1\appsettings.Development.json
+C:\Users\aigyl\Desktop\2 курс\1 семестр\инфа\InternetProvider\InternetProvider\bin\Debug\netcoreapp3.1\appsettings.json
+C:\Users\aigyl\Desktop\2 курс\1 семестр\инфа\InternetProvider\InternetProvider\bin\Debug\netcoreapp3.1\libman.json
+C:\Users\aigyl\Desktop\2 курс\1 семестр\инфа\InternetProvider\InternetProvider\bin\Debug\netcoreapp3.1\InternetProvider.exe
+C:\Users\aigyl\Desktop\2 курс\1 семестр\инфа\InternetProvider\InternetProvider\bin\Debug\netcoreapp3.1\InternetProvider.deps.json
+C:\Users\aigyl\Desktop\2 курс\1 семестр\инфа\InternetProvider\InternetProvider\bin\Debug\netcoreapp3.1\InternetProvider.runtimeconfig.json
+C:\Users\aigyl\Desktop\2 курс\1 семестр\инфа\InternetProvider\InternetProvider\bin\Debug\netcoreapp3.1\InternetProvider.runtimeconfig.dev.json
+C:\Users\aigyl\Desktop\2 курс\1 семестр\инфа\InternetProvider\InternetProvider\bin\Debug\netcoreapp3.1\InternetProvider.dll
+C:\Users\aigyl\Desktop\2 курс\1 семестр\инфа\InternetProvider\InternetProvider\bin\Debug\netcoreapp3.1\InternetProvider.pdb
+C:\Users\aigyl\Desktop\2 курс\1 семестр\инфа\InternetProvider\InternetProvider\bin\Debug\netcoreapp3.1\InternetProvider.Views.dll
+C:\Users\aigyl\Desktop\2 курс\1 семестр\инфа\InternetProvider\InternetProvider\bin\Debug\netcoreapp3.1\InternetProvider.Views.pdb
+C:\Users\aigyl\Desktop\2 курс\1 семестр\инфа\InternetProvider\InternetProvider\bin\Debug\netcoreapp3.1\linq2db.dll
+C:\Users\aigyl\Desktop\2 курс\1 семестр\инфа\InternetProvider\InternetProvider\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Razor.Language.dll
+C:\Users\aigyl\Desktop\2 курс\1 семестр\инфа\InternetProvider\InternetProvider\bin\Debug\netcoreapp3.1\Microsoft.CodeAnalysis.dll
+C:\Users\aigyl\Desktop\2 курс\1 семестр\инфа\InternetProvider\InternetProvider\bin\Debug\netcoreapp3.1\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\aigyl\Desktop\2 курс\1 семестр\инфа\InternetProvider\InternetProvider\bin\Debug\netcoreapp3.1\Microsoft.CodeAnalysis.CSharp.Workspaces.dll
+C:\Users\aigyl\Desktop\2 курс\1 семестр\инфа\InternetProvider\InternetProvider\bin\Debug\netcoreapp3.1\Microsoft.CodeAnalysis.Razor.dll
+C:\Users\aigyl\Desktop\2 курс\1 семестр\инфа\InternetProvider\InternetProvider\bin\Debug\netcoreapp3.1\Microsoft.CodeAnalysis.Workspaces.dll
+C:\Users\aigyl\Desktop\2 курс\1 семестр\инфа\InternetProvider\InternetProvider\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.dll
+C:\Users\aigyl\Desktop\2 курс\1 семестр\инфа\InternetProvider\InternetProvider\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.Contracts.dll
+C:\Users\aigyl\Desktop\2 курс\1 семестр\инфа\InternetProvider\InternetProvider\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.Core.dll
+C:\Users\aigyl\Desktop\2 курс\1 семестр\инфа\InternetProvider\InternetProvider\bin\Debug\netcoreapp3.1\dotnet-aspnet-codegenerator-design.dll
+C:\Users\aigyl\Desktop\2 курс\1 семестр\инфа\InternetProvider\InternetProvider\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.EntityFrameworkCore.dll
+C:\Users\aigyl\Desktop\2 курс\1 семестр\инфа\InternetProvider\InternetProvider\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.Templating.dll
+C:\Users\aigyl\Desktop\2 курс\1 семестр\инфа\InternetProvider\InternetProvider\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.Utils.dll
+C:\Users\aigyl\Desktop\2 курс\1 семестр\инфа\InternetProvider\InternetProvider\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGenerators.Mvc.dll
+C:\Users\aigyl\Desktop\2 курс\1 семестр\инфа\InternetProvider\InternetProvider\bin\Debug\netcoreapp3.1\Newtonsoft.Json.dll
+C:\Users\aigyl\Desktop\2 курс\1 семестр\инфа\InternetProvider\InternetProvider\bin\Debug\netcoreapp3.1\Npgsql.dll
+C:\Users\aigyl\Desktop\2 курс\1 семестр\инфа\InternetProvider\InternetProvider\bin\Debug\netcoreapp3.1\NuGet.Frameworks.dll
+C:\Users\aigyl\Desktop\2 курс\1 семестр\инфа\InternetProvider\InternetProvider\bin\Debug\netcoreapp3.1\System.Composition.AttributedModel.dll
+C:\Users\aigyl\Desktop\2 курс\1 семестр\инфа\InternetProvider\InternetProvider\bin\Debug\netcoreapp3.1\System.Composition.Convention.dll
+C:\Users\aigyl\Desktop\2 курс\1 семестр\инфа\InternetProvider\InternetProvider\bin\Debug\netcoreapp3.1\System.Composition.Hosting.dll
+C:\Users\aigyl\Desktop\2 курс\1 семестр\инфа\InternetProvider\InternetProvider\bin\Debug\netcoreapp3.1\System.Composition.Runtime.dll
+C:\Users\aigyl\Desktop\2 курс\1 семестр\инфа\InternetProvider\InternetProvider\bin\Debug\netcoreapp3.1\System.Composition.TypedParts.dll
+C:\Users\aigyl\Desktop\2 курс\1 семестр\инфа\InternetProvider\InternetProvider\bin\Debug\netcoreapp3.1\cs\Microsoft.CodeAnalysis.resources.dll
+C:\Users\aigyl\Desktop\2 курс\1 семестр\инфа\InternetProvider\InternetProvider\bin\Debug\netcoreapp3.1\de\Microsoft.CodeAnalysis.resources.dll
+C:\Users\aigyl\Desktop\2 курс\1 семестр\инфа\InternetProvider\InternetProvider\bin\Debug\netcoreapp3.1\es\Microsoft.CodeAnalysis.resources.dll
+C:\Users\aigyl\Desktop\2 курс\1 семестр\инфа\InternetProvider\InternetProvider\bin\Debug\netcoreapp3.1\fr\Microsoft.CodeAnalysis.resources.dll
+C:\Users\aigyl\Desktop\2 курс\1 семестр\инфа\InternetProvider\InternetProvider\bin\Debug\netcoreapp3.1\it\Microsoft.CodeAnalysis.resources.dll
+C:\Users\aigyl\Desktop\2 курс\1 семестр\инфа\InternetProvider\InternetProvider\bin\Debug\netcoreapp3.1\ja\Microsoft.CodeAnalysis.resources.dll
+C:\Users\aigyl\Desktop\2 курс\1 семестр\инфа\InternetProvider\InternetProvider\bin\Debug\netcoreapp3.1\ko\Microsoft.CodeAnalysis.resources.dll
+C:\Users\aigyl\Desktop\2 курс\1 семестр\инфа\InternetProvider\InternetProvider\bin\Debug\netcoreapp3.1\pl\Microsoft.CodeAnalysis.resources.dll
+C:\Users\aigyl\Desktop\2 курс\1 семестр\инфа\InternetProvider\InternetProvider\bin\Debug\netcoreapp3.1\pt-BR\Microsoft.CodeAnalysis.resources.dll
+C:\Users\aigyl\Desktop\2 курс\1 семестр\инфа\InternetProvider\InternetProvider\bin\Debug\netcoreapp3.1\ru\Microsoft.CodeAnalysis.resources.dll
+C:\Users\aigyl\Desktop\2 курс\1 семестр\инфа\InternetProvider\InternetProvider\bin\Debug\netcoreapp3.1\tr\Microsoft.CodeAnalysis.resources.dll
+C:\Users\aigyl\Desktop\2 курс\1 семестр\инфа\InternetProvider\InternetProvider\bin\Debug\netcoreapp3.1\zh-Hans\Microsoft.CodeAnalysis.resources.dll
+C:\Users\aigyl\Desktop\2 курс\1 семестр\инфа\InternetProvider\InternetProvider\bin\Debug\netcoreapp3.1\zh-Hant\Microsoft.CodeAnalysis.resources.dll
+C:\Users\aigyl\Desktop\2 курс\1 семестр\инфа\InternetProvider\InternetProvider\bin\Debug\netcoreapp3.1\cs\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\aigyl\Desktop\2 курс\1 семестр\инфа\InternetProvider\InternetProvider\bin\Debug\netcoreapp3.1\de\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\aigyl\Desktop\2 курс\1 семестр\инфа\InternetProvider\InternetProvider\bin\Debug\netcoreapp3.1\es\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\aigyl\Desktop\2 курс\1 семестр\инфа\InternetProvider\InternetProvider\bin\Debug\netcoreapp3.1\fr\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\aigyl\Desktop\2 курс\1 семестр\инфа\InternetProvider\InternetProvider\bin\Debug\netcoreapp3.1\it\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\aigyl\Desktop\2 курс\1 семестр\инфа\InternetProvider\InternetProvider\bin\Debug\netcoreapp3.1\ja\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\aigyl\Desktop\2 курс\1 семестр\инфа\InternetProvider\InternetProvider\bin\Debug\netcoreapp3.1\ko\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\aigyl\Desktop\2 курс\1 семестр\инфа\InternetProvider\InternetProvider\bin\Debug\netcoreapp3.1\pl\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\aigyl\Desktop\2 курс\1 семестр\инфа\InternetProvider\InternetProvider\bin\Debug\netcoreapp3.1\pt-BR\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\aigyl\Desktop\2 курс\1 семестр\инфа\InternetProvider\InternetProvider\bin\Debug\netcoreapp3.1\ru\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\aigyl\Desktop\2 курс\1 семестр\инфа\InternetProvider\InternetProvider\bin\Debug\netcoreapp3.1\tr\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\aigyl\Desktop\2 курс\1 семестр\инфа\InternetProvider\InternetProvider\bin\Debug\netcoreapp3.1\zh-Hans\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\aigyl\Desktop\2 курс\1 семестр\инфа\InternetProvider\InternetProvider\bin\Debug\netcoreapp3.1\zh-Hant\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\aigyl\Desktop\2 курс\1 семестр\инфа\InternetProvider\InternetProvider\bin\Debug\netcoreapp3.1\cs\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\aigyl\Desktop\2 курс\1 семестр\инфа\InternetProvider\InternetProvider\bin\Debug\netcoreapp3.1\de\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\aigyl\Desktop\2 курс\1 семестр\инфа\InternetProvider\InternetProvider\bin\Debug\netcoreapp3.1\es\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\aigyl\Desktop\2 курс\1 семестр\инфа\InternetProvider\InternetProvider\bin\Debug\netcoreapp3.1\fr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\aigyl\Desktop\2 курс\1 семестр\инфа\InternetProvider\InternetProvider\bin\Debug\netcoreapp3.1\it\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\aigyl\Desktop\2 курс\1 семестр\инфа\InternetProvider\InternetProvider\bin\Debug\netcoreapp3.1\ja\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\aigyl\Desktop\2 курс\1 семестр\инфа\InternetProvider\InternetProvider\bin\Debug\netcoreapp3.1\ko\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\aigyl\Desktop\2 курс\1 семестр\инфа\InternetProvider\InternetProvider\bin\Debug\netcoreapp3.1\pl\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\aigyl\Desktop\2 курс\1 семестр\инфа\InternetProvider\InternetProvider\bin\Debug\netcoreapp3.1\pt-BR\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\aigyl\Desktop\2 курс\1 семестр\инфа\InternetProvider\InternetProvider\bin\Debug\netcoreapp3.1\ru\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\aigyl\Desktop\2 курс\1 семестр\инфа\InternetProvider\InternetProvider\bin\Debug\netcoreapp3.1\tr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\aigyl\Desktop\2 курс\1 семестр\инфа\InternetProvider\InternetProvider\bin\Debug\netcoreapp3.1\zh-Hans\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\aigyl\Desktop\2 курс\1 семестр\инфа\InternetProvider\InternetProvider\bin\Debug\netcoreapp3.1\zh-Hant\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\aigyl\Desktop\2 курс\1 семестр\инфа\InternetProvider\InternetProvider\bin\Debug\netcoreapp3.1\cs\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\aigyl\Desktop\2 курс\1 семестр\инфа\InternetProvider\InternetProvider\bin\Debug\netcoreapp3.1\de\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\aigyl\Desktop\2 курс\1 семестр\инфа\InternetProvider\InternetProvider\bin\Debug\netcoreapp3.1\es\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\aigyl\Desktop\2 курс\1 семестр\инфа\InternetProvider\InternetProvider\bin\Debug\netcoreapp3.1\fr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\aigyl\Desktop\2 курс\1 семестр\инфа\InternetProvider\InternetProvider\bin\Debug\netcoreapp3.1\it\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\aigyl\Desktop\2 курс\1 семестр\инфа\InternetProvider\InternetProvider\bin\Debug\netcoreapp3.1\ja\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\aigyl\Desktop\2 курс\1 семестр\инфа\InternetProvider\InternetProvider\bin\Debug\netcoreapp3.1\ko\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\aigyl\Desktop\2 курс\1 семестр\инфа\InternetProvider\InternetProvider\bin\Debug\netcoreapp3.1\pl\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\aigyl\Desktop\2 курс\1 семестр\инфа\InternetProvider\InternetProvider\bin\Debug\netcoreapp3.1\pt-BR\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\aigyl\Desktop\2 курс\1 семестр\инфа\InternetProvider\InternetProvider\bin\Debug\netcoreapp3.1\ru\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\aigyl\Desktop\2 курс\1 семестр\инфа\InternetProvider\InternetProvider\bin\Debug\netcoreapp3.1\tr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\aigyl\Desktop\2 курс\1 семестр\инфа\InternetProvider\InternetProvider\bin\Debug\netcoreapp3.1\zh-Hans\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\aigyl\Desktop\2 курс\1 семестр\инфа\InternetProvider\InternetProvider\bin\Debug\netcoreapp3.1\zh-Hant\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\aigyl\Desktop\2 курс\1 семестр\инфа\InternetProvider\InternetProvider\bin\Debug\netcoreapp3.1\Models.dll
+C:\Users\aigyl\Desktop\2 курс\1 семестр\инфа\InternetProvider\InternetProvider\bin\Debug\netcoreapp3.1\Repository.dll
+C:\Users\aigyl\Desktop\2 курс\1 семестр\инфа\InternetProvider\InternetProvider\bin\Debug\netcoreapp3.1\Security.dll
+C:\Users\aigyl\Desktop\2 курс\1 семестр\инфа\InternetProvider\InternetProvider\bin\Debug\netcoreapp3.1\Repository.pdb
+C:\Users\aigyl\Desktop\2 курс\1 семестр\инфа\InternetProvider\InternetProvider\bin\Debug\netcoreapp3.1\Security.pdb
+C:\Users\aigyl\Desktop\2 курс\1 семестр\инфа\InternetProvider\InternetProvider\bin\Debug\netcoreapp3.1\Models.pdb
+C:\Users\aigyl\Desktop\2 курс\1 семестр\инфа\InternetProvider\InternetProvider\obj\Debug\netcoreapp3.1\InternetProvider.csproj.AssemblyReference.cache
+C:\Users\aigyl\Desktop\2 курс\1 семестр\инфа\InternetProvider\InternetProvider\obj\Debug\netcoreapp3.1\InternetProvider.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\aigyl\Desktop\2 курс\1 семестр\инфа\InternetProvider\InternetProvider\obj\Debug\netcoreapp3.1\InternetProvider.AssemblyInfoInputs.cache
+C:\Users\aigyl\Desktop\2 курс\1 семестр\инфа\InternetProvider\InternetProvider\obj\Debug\netcoreapp3.1\InternetProvider.AssemblyInfo.cs
+C:\Users\aigyl\Desktop\2 курс\1 семестр\инфа\InternetProvider\InternetProvider\obj\Debug\netcoreapp3.1\InternetProvider.csproj.CoreCompileInputs.cache
+C:\Users\aigyl\Desktop\2 курс\1 семестр\инфа\InternetProvider\InternetProvider\obj\Debug\netcoreapp3.1\InternetProvider.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\aigyl\Desktop\2 курс\1 семестр\инфа\InternetProvider\InternetProvider\obj\Debug\netcoreapp3.1\InternetProvider.RazorAssemblyInfo.cache
+C:\Users\aigyl\Desktop\2 курс\1 семестр\инфа\InternetProvider\InternetProvider\obj\Debug\netcoreapp3.1\InternetProvider.RazorAssemblyInfo.cs
+C:\Users\aigyl\Desktop\2 курс\1 семестр\инфа\InternetProvider\InternetProvider\obj\Debug\netcoreapp3.1\staticwebassets\InternetProvider.StaticWebAssets.Manifest.cache
+C:\Users\aigyl\Desktop\2 курс\1 семестр\инфа\InternetProvider\InternetProvider\obj\Debug\netcoreapp3.1\staticwebassets\InternetProvider.StaticWebAssets.xml
+C:\Users\aigyl\Desktop\2 курс\1 семестр\инфа\InternetProvider\InternetProvider\obj\Debug\netcoreapp3.1\scopedcss\bundle\InternetProvider.styles.css
+C:\Users\aigyl\Desktop\2 курс\1 семестр\инфа\InternetProvider\InternetProvider\obj\Debug\netcoreapp3.1\InternetProvider.TagHelpers.input.cache
+C:\Users\aigyl\Desktop\2 курс\1 семестр\инфа\InternetProvider\InternetProvider\obj\Debug\netcoreapp3.1\InternetProvider.TagHelpers.output.cache
+C:\Users\aigyl\Desktop\2 курс\1 семестр\инфа\InternetProvider\InternetProvider\obj\Debug\netcoreapp3.1\InternetProvider.RazorCoreGenerate.cache
+C:\Users\aigyl\Desktop\2 курс\1 семестр\инфа\InternetProvider\InternetProvider\obj\Debug\netcoreapp3.1\Razor\Views\Admin\CreateTariff.cshtml.g.cs
+C:\Users\aigyl\Desktop\2 курс\1 семестр\инфа\InternetProvider\InternetProvider\obj\Debug\netcoreapp3.1\Razor\Views\Admin\EditUser.cshtml.g.cs
+C:\Users\aigyl\Desktop\2 курс\1 семестр\инфа\InternetProvider\InternetProvider\obj\Debug\netcoreapp3.1\Razor\Views\Admin\UserList.cshtml.g.cs
+C:\Users\aigyl\Desktop\2 курс\1 семестр\инфа\InternetProvider\InternetProvider\obj\Debug\netcoreapp3.1\Razor\Views\Home\Index.cshtml.g.cs
+C:\Users\aigyl\Desktop\2 курс\1 семестр\инфа\InternetProvider\InternetProvider\obj\Debug\netcoreapp3.1\Razor\Views\Home\Privacy.cshtml.g.cs
+C:\Users\aigyl\Desktop\2 курс\1 семестр\инфа\InternetProvider\InternetProvider\obj\Debug\netcoreapp3.1\Razor\Views\Shared\Error.cshtml.g.cs
+C:\Users\aigyl\Desktop\2 курс\1 семестр\инфа\InternetProvider\InternetProvider\obj\Debug\netcoreapp3.1\Razor\Views\Shared\_Layout.cshtml.g.cs
+C:\Users\aigyl\Desktop\2 курс\1 семестр\инфа\InternetProvider\InternetProvider\obj\Debug\netcoreapp3.1\Razor\Views\Shared\_ValidationScriptsPartial.cshtml.g.cs
+C:\Users\aigyl\Desktop\2 курс\1 семестр\инфа\InternetProvider\InternetProvider\obj\Debug\netcoreapp3.1\Razor\Views\Tariff\TariffDetails.cshtml.g.cs
+C:\Users\aigyl\Desktop\2 курс\1 семестр\инфа\InternetProvider\InternetProvider\obj\Debug\netcoreapp3.1\Razor\Views\Tariff\TariffList.cshtml.g.cs
+C:\Users\aigyl\Desktop\2 курс\1 семестр\инфа\InternetProvider\InternetProvider\obj\Debug\netcoreapp3.1\Razor\Views\User\Authorization.cshtml.g.cs
+C:\Users\aigyl\Desktop\2 курс\1 семестр\инфа\InternetProvider\InternetProvider\obj\Debug\netcoreapp3.1\Razor\Views\User\PersonalPage.cshtml.g.cs
+C:\Users\aigyl\Desktop\2 курс\1 семестр\инфа\InternetProvider\InternetProvider\obj\Debug\netcoreapp3.1\Razor\Views\User\Registration.cshtml.g.cs
+C:\Users\aigyl\Desktop\2 курс\1 семестр\инфа\InternetProvider\InternetProvider\obj\Debug\netcoreapp3.1\Razor\Views\_ViewImports.cshtml.g.cs
+C:\Users\aigyl\Desktop\2 курс\1 семестр\инфа\InternetProvider\InternetProvider\obj\Debug\netcoreapp3.1\Razor\Views\_ViewStart.cshtml.g.cs
+C:\Users\aigyl\Desktop\2 курс\1 семестр\инфа\InternetProvider\InternetProvider\obj\Debug\netcoreapp3.1\InternetProvider.RazorTargetAssemblyInfo.cache
+C:\Users\aigyl\Desktop\2 курс\1 семестр\инфа\InternetProvider\InternetProvider\obj\Debug\netcoreapp3.1\InternetProvider.RazorTargetAssemblyInfo.cs
+C:\Users\aigyl\Desktop\2 курс\1 семестр\инфа\InternetProvider\InternetProvider\obj\Debug\netcoreapp3.1\InternetProvider.Views.pdb
+C:\Users\aigyl\Desktop\2 курс\1 семестр\инфа\InternetProvider\InternetProvider\obj\Debug\netcoreapp3.1\InternetProvider.csproj.CopyComplete
+C:\Users\aigyl\Desktop\2 курс\1 семестр\инфа\InternetProvider\InternetProvider\obj\Debug\netcoreapp3.1\InternetProvider.dll
+C:\Users\aigyl\Desktop\2 курс\1 семестр\инфа\InternetProvider\InternetProvider\obj\Debug\netcoreapp3.1\InternetProvider.pdb
+C:\Users\aigyl\Desktop\2 курс\1 семестр\инфа\InternetProvider\InternetProvider\obj\Debug\netcoreapp3.1\InternetProvider.genruntimeconfig.cache

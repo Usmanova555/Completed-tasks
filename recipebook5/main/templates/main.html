@@ -1,0 +1,78 @@
+{% extends 'base.html' %}
+{% load static %}
+{% block styles %}
+    <link href="{% static 'css/css2/main.css' %}" rel="stylesheet">
+{% endblock %}
+{% block title %}
+    Кулинарная книга
+{% endblock %}
+
+{% block content %}
+    <div class="main_content">
+        <div class="main_content_inner">
+            <div class="header">
+                <h1 class="header_title">Кулинарная книга</h1>
+                <nav class="navigation_bar">
+                    <a href="{% url 'register' %}" class="nav_item">
+                        Регистрация
+                    </a>
+
+                    <a href="{% url 'login' %}" class="nav_item">
+                        Войти
+                    </a>
+                </nav>
+            </div> <!-- /.header -->
+            <div class="search">
+                <div class="search_items">
+                    <h2 class="search_title">
+                        Поиск блюда
+                    </h2>
+
+                    <h3 class="time_title">
+                        Время приготовления
+                    </h3>
+                    <div class="time_items">
+                        <a class="time_item" href="#" onmouseover="time_hover(this, 'black')" onmouseout="time_hover(this, 'white')">
+                            <img class="time_item_img" src="{% static 'images/main_alarm.png' %}" alt="">
+                            <p class="time_item_text">до 30 мин</p>
+                        </a>
+                        <a class="time_item" href="#" onmouseover="time_hover(this, 'black')" onmouseout="time_hover(this, 'white')">
+                            <img class="time_item_img" src="{% static 'images/main_alarm.png' %}" alt="">
+                            <p class="time_item_text">30 мин - час</p>
+                        </a>
+                        <a class="time_item" href="#" onmouseover="time_hover(this, 'black')" onmouseout="time_hover(this, 'white')">
+                            <img class="time_item_img" src="{% static 'images/main_alarm.png' %}" alt="">
+                            <p class="time_item_text">более часа</p>
+                        </a>
+                    </div>
+
+                    <h3 class="complexity_title">
+                        Сложность
+                    </h3>
+
+                    <div class="complexity_items">
+                        <a class="complexity_item" href="#">
+                            <div class="complexity_item_img green"></div>
+                            <p class="complexity_item_text">легкая</p>
+                        </a>
+                        <a class="complexity_item" href="#">
+                            <div class="complexity_item_img yellow"></div>
+                            <p class="complexity_item_text">средняя</p>
+                        </a>
+                        <a class="complexity_item" href="#">
+                            <div class="complexity_item_img red"></div>
+                            <p class="complexity_item_text">сложная</p>
+                        </a>
+                    </div>
+
+                    <button class="search_button" type="submit">
+                        Найти
+                    </button>
+                </div>
+            </div>
+        </div>
+    </div>
+    {% block scripts %}
+        <script src="{% static 'js/js2/main_page.js' %}"></script>
+    {% endblock %}
+{% endblock %}

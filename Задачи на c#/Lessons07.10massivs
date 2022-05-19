@@ -1,0 +1,21 @@
+﻿using System;
+
+namespace Lesson07._10massivs
+{
+    class Program
+    {
+        static void Main(string[] args)
+        {
+            arr [i] = Convert.ToInt32(Console.ReadLine());
+            int max = arr[0]; int k = 0;
+            for (int i = 0; i < count; i++)
+                if (arr[i] > max)
+                {
+                    max = arr[i];
+                    k = i;
+                }
+            }
+            Console.Write("max=arr["+k+"+])
+        }
+    }
+}

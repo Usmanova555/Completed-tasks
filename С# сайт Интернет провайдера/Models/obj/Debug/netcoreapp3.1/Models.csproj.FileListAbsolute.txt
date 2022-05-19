@@ -1,0 +1,28 @@
+C:\Users\danik\source\repos\InternetProvider\Models\bin\Debug\netcoreapp3.1\Models.deps.json
+C:\Users\danik\source\repos\InternetProvider\Models\bin\Debug\netcoreapp3.1\Models.dll
+C:\Users\danik\source\repos\InternetProvider\Models\obj\Debug\netcoreapp3.1\Models.csprojAssemblyReference.cache
+C:\Users\danik\source\repos\InternetProvider\Models\obj\Debug\netcoreapp3.1\Models.AssemblyInfoInputs.cache
+C:\Users\danik\source\repos\InternetProvider\Models\obj\Debug\netcoreapp3.1\Models.AssemblyInfo.cs
+C:\Users\danik\source\repos\InternetProvider\Models\bin\Debug\netcoreapp3.1\Models.pdb
+C:\Users\danik\source\repos\InternetProvider\Models\obj\Debug\netcoreapp3.1\Models.dll
+C:\Users\danik\source\repos\InternetProvider\Models\obj\Debug\netcoreapp3.1\Models.pdb
+C:\Users\danik\source\repos\InternetProvider\Models\obj\Debug\netcoreapp3.1\Models.csproj.CoreCompileInputs.cache
+C:\Users\usman\OneDrive\Рабочий стол\InternetProvider\Models\bin\Debug\netcoreapp3.1\Models.deps.json
+C:\Users\usman\OneDrive\Рабочий стол\InternetProvider\Models\bin\Debug\netcoreapp3.1\Models.dll
+C:\Users\usman\OneDrive\Рабочий стол\InternetProvider\Models\bin\Debug\netcoreapp3.1\Models.pdb
+C:\Users\usman\OneDrive\Рабочий стол\InternetProvider\Models\obj\Debug\netcoreapp3.1\Models.csprojAssemblyReference.cache
+C:\Users\usman\OneDrive\Рабочий стол\InternetProvider\Models\obj\Debug\netcoreapp3.1\Models.AssemblyInfoInputs.cache
+C:\Users\usman\OneDrive\Рабочий стол\InternetProvider\Models\obj\Debug\netcoreapp3.1\Models.AssemblyInfo.cs
+C:\Users\usman\OneDrive\Рабочий стол\InternetProvider\Models\obj\Debug\netcoreapp3.1\Models.csproj.CoreCompileInputs.cache
+C:\Users\usman\OneDrive\Рабочий стол\InternetProvider\Models\obj\Debug\netcoreapp3.1\Models.dll
+C:\Users\usman\OneDrive\Рабочий стол\InternetProvider\Models\obj\Debug\netcoreapp3.1\Models.pdb
+C:\Users\aigyl\Desktop\2 курс\1 семестр\инфа\InternetProvider\Models\bin\Debug\netcoreapp3.1\Models.deps.json
+C:\Users\aigyl\Desktop\2 курс\1 семестр\инфа\InternetProvider\Models\bin\Debug\netcoreapp3.1\Models.dll
+C:\Users\aigyl\Desktop\2 курс\1 семестр\инфа\InternetProvider\Models\bin\Debug\netcoreapp3.1\Models.pdb
+C:\Users\aigyl\Desktop\2 курс\1 семестр\инфа\InternetProvider\Models\obj\Debug\netcoreapp3.1\Models.csproj.AssemblyReference.cache
+C:\Users\aigyl\Desktop\2 курс\1 семестр\инфа\InternetProvider\Models\obj\Debug\netcoreapp3.1\Models.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\aigyl\Desktop\2 курс\1 семестр\инфа\InternetProvider\Models\obj\Debug\netcoreapp3.1\Models.AssemblyInfoInputs.cache
+C:\Users\aigyl\Desktop\2 курс\1 семестр\инфа\InternetProvider\Models\obj\Debug\netcoreapp3.1\Models.AssemblyInfo.cs
+C:\Users\aigyl\Desktop\2 курс\1 семестр\инфа\InternetProvider\Models\obj\Debug\netcoreapp3.1\Models.csproj.CoreCompileInputs.cache
+C:\Users\aigyl\Desktop\2 курс\1 семестр\инфа\InternetProvider\Models\obj\Debug\netcoreapp3.1\Models.dll
+C:\Users\aigyl\Desktop\2 курс\1 семестр\инфа\InternetProvider\Models\obj\Debug\netcoreapp3.1\Models.pdb

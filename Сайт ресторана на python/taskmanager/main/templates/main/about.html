@@ -1,0 +1,59 @@
+{% extends 'main/base2.html'%}
+{% load static %}
+
+{% block title%}
+Страница про нас
+{% endblock %}
+
+{% block style %}
+<link rel="stylesheet" href="{% static 'css/styleabout.css' %}" type="text/css">
+{% endblock %}
+
+{% block content%}
+     <br>
+<h2 class="post-cat", align="center">о нас</h2>
+<br>
+</div>
+
+<div class = "text">
+    {% for el in abouts %}
+        <h5><u>{{el.phone_number}}</u></h5>
+        <br>
+        <h6>Пн-Вс 10:00-01:00</h6>
+            <h6>Адрес: г. Казань - Баумана, 55</h6>
+        <a href="https://vk.com/club200239298">
+            <img src="{% static 'img/about/vk.png' %}" width="30" height="30">
+        </a>
+        <a href="https://vk.com/away.php?utf=1&to=https%3A%2F%2Fwww.instagram.com%2Finvites%2Fcontact%2F%3Fi%3D19aw5146qr1e%26utm_content%3Dkf01vzr">
+            <img src="{% static 'img/about/inst.png' %}" width="30" height="30">
+        </a>
+        <br><br>
+        <h3> Как мы работаем</h3>
+        <p style="font-size: 13px" class="post-cat2">{{el.text}}</p>
+      <br> <br>
+    {% endfor %}
+</div>
+
+<div class = "text">
+	<h5><u>+7 (917) 555-77-55</u></h5>
+	<br>
+	<h6>Пн-Вс 10:00-01:00</h6>
+		<h6>Адрес: г. Казань - Баумана, 55</h6>
+	<a href="https://vk.com/club200239298">
+		<img src="{% static 'img/about/vk.png' %}" width="30" height="30">
+	</a>
+	<a href="https://vk.com/away.php?utf=1&to=https%3A%2F%2Fwww.instagram.com%2Finvites%2Fcontact%2F%3Fi%3D19aw5146qr1e%26utm_content%3Dkf01vzr">
+		<img src="{% static 'img/about/inst.png' %}" width="30" height="30">
+	</a>
+	<br><br>
+	<h3> Как мы работаем</h3>
+	<p style="font-size: 13px" class="post-cat2">~ Повара начинают готовить еду только после вашего звонка.<br>
+			~ Мы используем только отборные, свежие продукты.<br>
+			~ Готовим суши по фирменной рецептуре.<br>
+			~ Недорогие, но щедрые порций свежих блюд.<br>
+			~ Регулярно проводим акции.<br>
+			~ Гарантируем доставку еды с соблюдением всех технологий транспортировки, чтобы вы всегда получали свежие и теплые блюда.<br>
+			~ Мы первыми в Казани открыли службу доставки суши на дом или в офис и остаемся лидерами в этой сфере!</p>
+  <br> <br>
+</div>
+{% endblock %}

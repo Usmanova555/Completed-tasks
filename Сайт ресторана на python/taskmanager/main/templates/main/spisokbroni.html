@@ -1,0 +1,33 @@
+{% extends 'main/base.html'%}
+{% load static %}
+
+{% block title%}
+{{ title }}
+{% endblock %}
+
+{% block style %}
+<link rel="stylesheet" href="{% static 'css/stylesheet.css' %}" type="text/css">
+{% endblock %}
+
+{% block content%}
+    <br>
+    <h2 class="post-cat", align="center">Забронированные столики</h2>
+    <br>
+    {% if bookings %}
+        {% for el in bookings %}
+            <div class="text" mt-4>
+                <h3>ФИО: {{el.title}}</h3>
+                <p>Дата и время от: <u>{{el.time_from}}</u></p>
+                <p>Дата и время до: <u>{{el.time_to}}</u></p>
+                <p>Номер телефона: <u>{{el.phone_number}}</u></p>
+                <p>Номер столика: <u>{{el.number_of_table}}</u></p>
+                <p>Дата и время бронирования: <u>{{el.created}}</u></p><br>
+            </div>
+        {% endfor %}
+    {% else %}
+        <p>У нас нет записей</p>
+    {% endif %}
+
+
+
+{% endblock %}

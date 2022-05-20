@@ -1,0 +1,36 @@
+{% extends 'main/base.html'%}
+{% load static %}
+
+{% block title%}
+Суши
+{% endblock %}
+
+{% block style %}
+<link rel="stylesheet" href="{% static 'css/stylesushi.css' %}" type="text/css">
+{% endblock %}
+
+{% block content%}
+<br>
+<h2 class="post-cat", align="center">Суши</h2>
+<br>
+<div class="post-wrap" mt-2>
+    {% for el in sushies %}
+	<div class="post-item">
+		<div class="post-item-wrap">
+			<a href="" class="post-link">
+			<div class="image-wrapper">
+				<img src={{el.photo.url}}>
+			</div>
+			<div class="text-wrapper">
+				<div class="post-cat">{{el.title}}</div>
+				<div style="font-size: 13px" class="post-cat2"><p>{{el.sostav}}</p></div>
+				<h4 class="post-title2">({{el.ves}} грамм)</h4>
+				<p>{{el.price}} ₽</p>
+				<h3 class="post-title">FoodHome</h3>
+			</div>
+			<div class="overlay"></div></a>
+		</div>
+	</div>
+    {% endfor %}
+</div>
+{% endblock %}

@@ -1,0 +1,38 @@
+{% extends 'main/base2.html'%}
+{% load static %}
+
+{% block title%}
+{{title}}
+{% endblock %}
+
+{% block style %}
+<link rel="stylesheet" href="{% static 'css/styleforum.css' %}" type="text/css">
+{% endblock %}
+
+{% block content%}
+
+<br>
+<h2 class="post-cat", align="center">Список поданных заявлений</h2>
+<br>
+</div>
+<div class = "post-wrap">
+		{% if works %}
+			{% for el in works %}
+				<div class="container1 mt-2">
+					<p><span>{{el.title}}</span></p>
+					<p>{{el.name_of_work}}</p>
+					<p>{{el.text}}</p>
+					<p>{{el.age}}</p>
+					<h4 class="post-title2">{{el.created}} </h4>
+				</div>
+			{% endfor %}
+		{% else %}
+	&nbsp;&nbsp;
+		<p>У нас нет поданных заявлений</p>
+		{% endif %}
+</div>
+
+
+  <br> <br>
+</div>
+{% endblock %}

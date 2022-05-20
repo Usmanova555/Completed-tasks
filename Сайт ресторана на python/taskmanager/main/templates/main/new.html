@@ -1,0 +1,70 @@
+{% extends 'main/base2.html'%}
+{% load static %}
+
+{% block title%}
+{{title}}
+{% endblock %}
+
+{% block style %}
+<link rel="stylesheet" href="{% static 'css/stylebooktable.css' %}" type="text/css">
+
+
+{% endblock %}
+
+{% block content%}
+<br>
+<h2 class="post-cat", align="center">Сделать заказ</h2>
+<br>
+
+<div class="placeholder1"></div>
+
+
+</div>
+  <body>
+  <div class="post-wrap", align="center">
+      <img src="{% static 'img/s1200.jpg' %}"  width="400" height="312" class="leftimg"><br>
+      <div ><br>
+          <h6>На этой странице вы можете сделать заказ, внеся данные в форму. Через пару минут с Вами свяжутся администраторы нашего ресторана для уточнения данных о способе оплаты и Вашего адреса, если Вы хотите оформить доставку.<br>
+              <br>На странице с Вашим профилем будут все Ваши заказы.<br>
+          <br><a href="{% url 'profil' %}">Профиль</a></h6><br>
+    </div>
+
+      <div><b>Ассортимент наших блюд: <br></b></div>
+
+        <div class="post-wrap" mt-2>
+            {% for el in news %}
+            <div>{{el.title }}</div> &nbsp &nbsp &nbsp &nbsp
+            {% endfor %}
+        </div>
+
+    </div><br>
+
+  <div class = "post-wrap">
+      <b>Для того, чтобы сделать заказ, заполните форму ниже: </b>
+      <br>
+  </div>
+  <div class = "post-wrap">
+      <form method="post">
+          <br>
+          {% csrf_token %}
+          {{ form.title }}<br>
+          {{ form.phone_number }}<br>
+          {{ form.name }}<br>
+          <br>
+
+          <button type="submit" class = "btn btn-success">Заказать</button>
+          <span>{{error}}</span>
+      </form>
+  </div>
+
+    </div>
+  </div>
+
+
+</div>
+
+</body>
+
+  <br> <br>
+</div>
+{% endblock %}

@@ -1,0 +1,157 @@
+{% extends 'main/base2.html'%}
+{% load static %}
+
+{% block title%}
+Страница акций
+{% endblock %}
+
+{% block style %}
+<link rel="stylesheet" href="{% static 'css/styleactions.css' %}" type="text/css">
+{% endblock %}
+
+{% block content%}
+     <br>
+<h2 class="post-cat", align="center">Акции и предложения</h2>
+<br>
+</div>
+
+{% for el in action %}
+<div class="post-wrap">
+	<div class="post-item">
+		<div class="post-item-wrap">
+			<a href="" class="post-link">
+			<div class="image-wrapper">
+				<img src={{el.photo.url}}>
+			</div>
+			<div class="text-wrapper">
+				<div class="post-cat">{{el.name}}</div>
+				<div style="font-size: 11px", class="post-cat2">
+					<p>{{el.text}}</p>
+                </div>
+				<h3 class="post-title">FoodHome</h3>
+			</div>
+			<div class="overlay"></div></a>
+		</div>
+	</div>
+</div>
+{% endfor %}
+
+<div class="post-wrap">
+	<div class="post-item">
+		<div class="post-item-wrap">
+			<a href="" class="post-link">
+			<div class="image-wrapper">
+				<img src="{% static 'img/actions/1.png' %}">
+			</div>
+			<div class="text-wrapper">
+				<div class="post-cat">Счастливые часы</div>
+				<div style="font-size: 11px", class="post-cat2">
+					<p>С понедельника по пятницу скидка до 50%<br><br>
+					Специальная цена на опеределённые позиции, обновление каждый месяц!<br><br>
+	~ Ролл «Калифорния» - 119 руб.<br>
+	~ Ролл «Дракон» - 169 руб.<br>
+	~ Пицца «Пепперони» - 179 руб.<br>
+	~ Суши «с тунцом» - 49 руб.</p>
+                </div>
+				<h4 class="post-title2">Блюда по акции можно забрать до 17:00.</h4>
+				<h3 class="post-title">FoodHome</h3>
+			</div>
+			<div class="overlay"></div></a>
+		</div>
+	</div>
+
+	<div class="post-item">
+		<div class="post-item-wrap">
+			<a href="" class="post-link">
+			<div class="image-wrapper">
+				<img src="{% static 'img/actions/2.png' %}">
+			</div>
+			<div class="text-wrapper">
+				<div class="post-cat">20% на День рождения!</div>
+				<div style="font-size: 11px", class="post-cat2">
+					<p>Скидка предоставляется в размере 20% на всё меню*<br><br>
+					Воспользоваться скидкой возможно только 1 раз в течение 3 дней до и 3 дней после Дня Рождения.<br><br>
+	Скидка действительна при предъявлении оригинала документа, копия документа остаётся в кафе.<br></p>
+                </div>
+				<h3 class="post-title">FoodHome</h3>
+			</div>
+			<div class="overlay"></div></a>
+		</div>
+	</div>
+
+	<div class="post-item">
+		<div class="post-item-wrap">
+			<a href="" class="post-link">
+			<div class="image-wrapper">
+				<img src="{% static 'img/actions/3.png' %}">
+			</div>
+			<div class="text-wrapper">
+				<div class="post-cat">Cash back</div>
+				<div style="font-size: 11px", class="post-cat2">
+					<p>До 5%<br><br>
+					Условия бонусной программы:<br><br>
+	1 бонус = 1 рубль<br><br>
+	Бонусами можно оплатить до 50% от суммы заказа. Максимальное количество начислений бонусов – 2 раза в 24 часа. Максимальное списание в сутки - 500 бонусов<br><br>
+	Неиспользованные бонусы сгорают через 3 месяца после начисления.<br></p>
+                </div>
+				<h3 class="post-title">FoodHome</h3>
+			</div>
+			<div class="overlay"></div></a>
+		</div>
+	</div>
+
+	<div class="post-item">
+		<div class="post-item-wrap">
+			<a href="" class="post-link">
+			<div class="image-wrapper">
+				<img src="{% static 'img/actions/4.png' %}">
+			</div>
+			<div class="text-wrapper">
+				<div class="post-cat">Подарки по вкусу</div>
+				<div style="font-size: 11px", class="post-cat2">
+					<u>Получи подарок на выбор при заказе от:</u><br>
+	1 000 руб.<br>
+~ ролл запеченный с тунцом <br>
+~ ролл запеченный с лососем<br>
+~ ролл запеченный Хокку<br>
+1 500 руб.<br>
+~ ролл запеченный с тунцом<br>
+~ ролл Самурай<br>
+~ ролл Том ям<br>
+~ пицца 4 сезона<br>
+~ пицца Карри</p>
+                </div>
+				<h4 class="post-title2">На самовывоз Воскресенье-Четверг, с 10:00 до 01:00</h4>
+				<h3 class="post-title">FoodHome</h3>
+			</div>
+			<div class="overlay"></div></a>
+		</div>
+	</div>
+
+	<div class="post-item">
+		<div class="post-item-wrap">
+			<a href="" class="post-link">
+			<div class="image-wrapper">
+				<img src="{% static 'img/actions/5.png' %}">
+			</div>
+			<div class="text-wrapper">
+				<div class="post-cat">Бесплатная доставка</div>
+				<div style="font-size: 11px", class="post-cat2">
+					<p>При заказе на сумму свыше 700 рублей Вы получаете доставку по г.Казань абсолютно бесплатно. <br><br>
+					Менее 700 рублей - доставка 110 рублей.<br><br>
+	Оформить доставку можно по телефону +7(917)555-77-55</p>
+                </div>
+				<h4 class="post-title2">В отдалённые районы города доставка от 1 500 рублей - бесплатная.</h4>
+				<h3 class="post-title">FoodHome</h3>
+			</div>
+			<div class="overlay"></div></a>
+		</div>
+	</div>
+</div>
+
+
+
+
+  <br> <br>
+</div>
+{% endblock %}

@@ -1,0 +1,241 @@
+{% extends 'main/base.html'%}
+{% load static %}
+
+{% block title%}
+Напитки
+{% endblock %}
+
+{% block style %}
+<link rel="stylesheet" href="{% static 'css/styledrinks.css' %}" type="text/css">
+{% endblock %}
+
+{% block content%}
+<br>
+<h2 class="post-cat", align="center">Напитки</h2>
+<br>
+</div>
+<div class="post-wrap" mt-2>
+    {% for el in drink %}
+	<div class="post-item">
+		<div class="post-item-wrap">
+			<a href="" class="post-link">
+			<div class="image-wrapper">
+				<img src={{el.photo.url}}>
+			</div>
+			<div class="text-wrapper">
+				<div class="post-cat">{{el.title}}</div>
+				<div style="font-size: 13px" class="post-cat2"><p>{{el.sostav}}</p></div>
+				<h4 class="post-title2">({{el.ves}} грамм)</h4>
+				<p>{{el.price}} ₽</p>
+				<h3 class="post-title">FoodHome</h3>
+			</div>
+			<div class="overlay"></div></a>
+		</div>
+	</div>
+    {% endfor %}
+</div>
+
+
+<div class="post-wrap">
+	<div class="post-item">
+		<div class="post-item-wrap">
+			<a href="" class="post-link">
+			<div class="image-wrapper">
+				<img src="{% static 'img/drinks/1.png' %}">
+			</div>
+			<div class="text-wrapper">
+				<div class="post-cat">Тайский синий</div>
+				<div style="font-size: 13px" class="post-cat2"><p>Мотыльковый горошек</p></div>
+				<h4 class="post-title2">(200 грамм)</h4>
+				<p>350 ₽</p>
+				<h3 class="post-title">FoodHome</h3>
+			</div>
+			<div class="overlay"></div></a>
+		</div>
+	</div>
+
+	<div class="post-item">
+		<div class="post-item-wrap">
+			<a href="" class="post-link">
+			<div class="image-wrapper">
+				<img src="{% static 'img/drinks/2.png' %}">
+			</div>
+			<div class="text-wrapper">
+				<div class="post-cat">Молочный улун</div>
+				<div style="font-size: 13px" class="post-cat2"><p>Молочный улун</p></div>
+				<h4 class="post-title2">(225 грамм)</h4>
+				<p>325 ₽</p>
+				<h3 class="post-title">FoodHome</h3>
+			</div>
+			<div class="overlay"></div></a>
+		</div>
+	</div>
+
+	<div class="post-item">
+		<div class="post-item-wrap">
+			<a href="" class="post-link">
+			<div class="image-wrapper">
+				<img src="{% static 'img/drinks/3.png' %}">
+			</div>
+			<div class="text-wrapper">
+				<div class="post-cat">Зелёная жемчужина (Gunpowder)</div>
+				<div style="font-size: 13px" class="post-cat2"><p>Gunpowder</p></div>
+				<h4 class="post-title2">(150 грамм)</h4>
+				<p>219 ₽</p>
+				<h3 class="post-title">FoodHome</h3>
+			</div>
+			<div class="overlay"></div></a>
+		</div>
+	</div>
+
+	<div class="post-item">
+		<div class="post-item-wrap">
+			<a href="" class="post-link">
+			<div class="image-wrapper">
+				<img src="{% static 'img/drinks/4.png' %}">
+			</div>
+			<div class="text-wrapper">
+				<div class="post-cat">Медовая орхидея</div>
+				<div style="font-size: 13px" class="post-cat2"><p>Листья, собранные с кустов медовой орхидеи</p></div>
+				<h4 class="post-title2">(200 грамм)</h4>
+				<p>450 ₽</p>
+				<h3 class="post-title">FoodHome</h3>
+			</div>
+			<div class="overlay"></div></a>
+		</div>
+	</div>
+
+	<div class="post-item">
+		<div class="post-item-wrap">
+			<a href="" class="post-link">
+			<div class="image-wrapper">
+				<img src="{% static 'img/drinks/5.png' %}">
+			</div>
+			<div class="text-wrapper">
+				<div class="post-cat">Ромовый костёр</div>
+				<div style="font-size: 13px" class="post-cat2"><p>Коктейль из темного рома Grand Marnier и коричного порошка</p></div>
+				<h4 class="post-title2">(85 грамм)</h4>
+				<p>666 ₽</p>
+				<h3 class="post-title">FoodHome</h3>
+			</div>
+			<div class="overlay"></div></a>
+		</div>
+	</div>
+
+    <div class="post-item">
+		<div class="post-item-wrap">
+			<a href="" class="post-link">
+			<div class="image-wrapper">
+				<img src="{% static 'img/drinks/7.png' %}">
+			</div>
+			<div class="text-wrapper">
+				<div class="post-cat">Голубая лагуна</div>
+				<div style="font-size: 13px" class="post-cat2"><p>Голубой ликёр Кюрасао, водка, лёд, лимонный сок, лимон</p></div>
+				<h4 class="post-title2">(220 грамм)</h4>
+				<p>315 ₽</p>
+				<h3 class="post-title">FoodHome</h3>
+			</div>
+			<div class="overlay"></div></a>
+		</div>
+	</div>
+
+	<div class="post-item">
+		<div class="post-item-wrap">
+			<a href="" class="post-link">
+			<div class="image-wrapper">
+				<img src="{% static 'img/drinks/6.png' %}">
+			</div>
+			<div class="text-wrapper">
+				<div class="post-cat">Dukes H</div>
+				<div style="font-size: 13px" class="post-cat2"><p>Прохладительный напиток с соком маракуйи</p></div>
+				<h4 class="post-title2">(135 грамм)</h4>
+				<p>515 ₽</p>
+				<h3 class="post-title">FoodHome</h3>
+			</div>
+			<div class="overlay"></div></a>
+		</div>
+	</div>
+
+	<div class="post-item">
+		<div class="post-item-wrap">
+			<a href="" class="post-link">
+			<div class="image-wrapper">
+				<img src="{% static 'img/drinks/8.png' %}">
+			</div>
+			<div class="text-wrapper">
+				<div class="post-cat">Drandy Julep</div>
+				<div style="font-size: 13px" class="post-cat2"><p>Сахарная пудра, бренди, веточки мяты</p></div>
+				<h4 class="post-title2">(180 грамм)</h4>
+				<p>315 ₽</p>
+				<h3 class="post-title">FoodHome</h3>
+			</div>
+			<div class="overlay"></div></a>
+		</div>
+	</div>
+
+	<div class="post-item">
+		<div class="post-item-wrap">
+			<a href="" class="post-link">
+			<div class="image-wrapper">
+				<img src="{% static 'img/drinks/9.png' %}">
+			</div>
+			<div class="text-wrapper">
+				<div class="post-cat">Кола 0,25</div>
+				<h4 class="post-title2">(0,25 л)</h4>
+				<p>87 ₽</p>
+				<h3 class="post-title">FoodHome</h3>
+			</div>
+			<div class="overlay"></div></a>
+		</div>
+	</div>
+
+	<div class="post-item">
+		<div class="post-item-wrap">
+			<a href="" class="post-link">
+			<div class="image-wrapper">
+				<img src="{% static 'img/drinks/10.png' %}">
+			</div>
+			<div class="text-wrapper">
+				<div class="post-cat">Спрайт</div>
+				<h4 class="post-title2">(0,5 л)</h4>
+				<p>85 ₽</p>
+				<h3 class="post-title">FoodHome</h3>
+			</div>
+			<div class="overlay"></div></a>
+		</div>
+	</div>
+
+	<div class="post-item">
+		<div class="post-item-wrap">
+			<a href="" class="post-link">
+			<div class="image-wrapper">
+				<img src="{% static 'img/drinks/11.png' %}">
+			</div>
+			<div class="text-wrapper">
+				<div class="post-cat">Burn</div>
+				<h4 class="post-title2">(0,25 л)</h4>
+				<p>145 ₽</p>
+				<h3 class="post-title">FoodHome</h3>
+			</div>
+			<div class="overlay"></div></a>
+		</div>
+	</div>
+
+	<div class="post-item">
+		<div class="post-item-wrap">
+			<a href="" class="post-link">
+			<div class="image-wrapper">
+				<img src="{% static 'img/drinks/12.png' %}">
+			</div>
+			<div class="text-wrapper">
+				<div class="post-cat">Бон Аква 0,5 негаз.</div>
+				<h4 class="post-title2">(0,5 л)</h4>
+				<p>65 ₽</p>
+				<h3 class="post-title">FoodHome</h3>
+			</div>
+			<div class="overlay"></div></a>
+		</div>
+	</div>
+
+</div>
+{% endblock %}

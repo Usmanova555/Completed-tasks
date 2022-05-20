@@ -1,0 +1,50 @@
+{% extends 'main/base2.html'%}
+{% load static %}
+
+{% block title%}
+{{title}}
+{% endblock %}
+
+{% block style %}
+<link rel="stylesheet" href="{% static 'css/stylesheet.css' %}" type="text/css">
+{% endblock %}
+
+{% block content%}
+</div>
+
+<br>
+<h2 class="post-cat", align="center">Приём на работу</h2>
+<br>
+<div class = "post-wrap", align="center">
+	<p>
+		На данной странице Вы можете подать своё заявление в нашу дружную команду на работу. Мы обработаем Ваше заявление и свяжемся с Вами по телефону.
+      Заполните, пожалуйста, форму. <br>Постарайтесь максимально подробно описать Ваш опыт, и расскажите, почему Вы хотите работать с нами. Удачи!<br>
+      <b>Вакансии, на которые Вы можете подать заявление:</b>
+  <p> Повар-универсал<br>
+      Работник кухонный<br>
+      Заместитель директора<br>
+      Пекарь<br>
+      Уборщица<br>
+      Заведующая залом</p>
+	</p>
+</div>
+<div  align="center" >
+	<a href="{% url 'workspisok' %}">Список поданных заявлений</a><br>
+</div>
+<div class = "post-wrap">
+      <form method="post">
+          <br>
+          {% csrf_token %}
+          {{ form.title }}<br>
+          {{ form.name_of_work }}<br>
+          {{ form.text }}<br>
+          {{ form.age }}<br>
+          <br>
+
+          <button type="submit" class = "btn btn-success">Добавить</button>
+          <span>{{error}}</span>
+      </form>
+  </div>
+  <br> <br>
+</div>
+{% endblock %}

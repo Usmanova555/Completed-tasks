@@ -1,0 +1,93 @@
+{% extends 'main/base.html'%}
+{% load static %}
+
+{% block title%}
+{{title}}
+{% endblock %}
+
+{% block style %}
+<link rel="stylesheet" href="{% static 'css/stylesheet.css' %}" type="text/css">
+{% endblock %}
+
+{% block content%}
+
+<br>
+<h2 class="post-cat", align="center">Меню</h2>
+<br>
+</div>
+
+<div class="post-wrap">
+			<div class="post-item">
+				<div class="post-item-wrap">
+					<a href="{% url 'pizza' %}" class="post-link">
+					<div class="image-wrapper">
+						<img src="{% static 'img/пицца.png' %}">
+					</div>
+					<div class="text-wrapper">
+						<div class="post-cat">Пицца</div>
+						<h3 class="post-title">FoodHome</h3>
+					</div>
+					<div class="overlay"></div></a>
+				</div>
+			</div>
+
+		<div class="post-item">
+			<div class="post-item-wrap">
+				<a href="{% url 'rolls' %}">
+				<div class="image-wrapper">
+					<img src="{% static 'img/роллы.png' %}">
+				</div>
+				<div class="text-wrapper">
+					<div class="post-cat">Роллы</div>
+					<h3 class="post-title">FoodHome</h3>
+				</div>
+				<div class="overlay"></div></a>
+			</div>
+		</div>
+
+		<div class="post-item">
+			<div class="post-item-wrap">
+				<a href="{% url 'sushi' %}" class="post-link">
+				<div class="image-wrapper">
+					<img src="{% static 'img/суши.png' %}">
+				</div>
+				<div class="text-wrapper">
+					<div class="post-cat">Суши</div>
+					<h3 class="post-title">FoodHome</h3>
+				</div>
+				<div class="overlay"></div></a>
+			</div>
+		</div>
+
+		<div class="post-item">
+			<div class="post-item-wrap">
+				<a href="{% url 'drinks' %}" class="post-link">
+				<div class="image-wrapper">
+					<img src="{% static 'img/напитки.png' %}">
+				</div>
+				<div class="text-wrapper">
+					<div class="post-cat">Напитки</div>
+					<h3 class="post-title">FoodHome</h3>
+				</div>
+				<div class="overlay"></div></a>
+			</div>
+		</div>
+</div>
+
+	<div class="main">
+		<h3>Предыстория</h3>
+		<p>Сейчас мы поведуем вам историю создания нашего FoodHome - дома еды для больших и маленьких любителей прекрасной японской кухни. Наши прекрасные "Художники Японской кухни" - лучшие повара по версии сайта "ЕдаКазанда". Попробуйте и вы! Мы не скажем - мы докажем!</p>
+		<br>
+		<h3>Всё началось с любви...</h3>
+		<p>Любви нашего повара к тунцу, конечно:) Он объездил 15 стран мира и с самого детства его стезёй было найти его... идеальный рецепт роллов из свежеприготовленного, вкусного, сочного, выловленного из вод Тихого океана ГОЛУБОГО ТУНЦА!
+Обыкновенный, Австралийский, Большеглазый, каких тунцов он только не повидал на этом длинном пути. И он нашёл его. В одном местном ресторанчике "Kiosi kimur" на берегу океана. Прямо как в детстве готовила его мама.
+Теперь он приготовит его вам, нашим самым требовательным суши и роллы дегустаторам.</p>
+    </div>
+
+<img src="{% static 'img/мем.png' %}" alt="Центрируем изображение" class="center-img" />
+  <br> <br>
+</div>
+
+
+{% endblock %}
+

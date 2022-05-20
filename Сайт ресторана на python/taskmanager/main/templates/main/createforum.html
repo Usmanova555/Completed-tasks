@@ -1,0 +1,38 @@
+{% extends 'main/base.html'%}
+{% load static %}
+
+{% block title%}
+Создать отзыв
+{% endblock %}
+
+{% block style %}
+<link rel="stylesheet" href="{% static 'css/styleforum.css' %}" type="text/css">
+{% endblock %}
+
+
+{% block content%}
+		 <br>
+		 <h2 class="post-cat", align="center">Создать отзыв</h2>
+		 <br>
+	<div class = "post-wrap">
+        {% if username %}
+          <form method="post" enctype="multipart/form-data">
+              <br>
+              {% csrf_token %}
+              {{ form.title_fio }}<br>
+              {{ form.message }}<br>
+              {{ form.image }}<br>
+              <br>
+              <button type="submit" class = "btn btn-success">Добавить</button>
+              <span>{{error}}</span>
+          </form>
+        {% else %}
+            <p>Для создания отзыва Вам необходимо авторизироваться</p>
+        {%  endif %}
+  </div>
+
+
+  <br> <br>
+     <br>
+     <br>
+{% endblock %}

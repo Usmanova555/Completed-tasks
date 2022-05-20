@@ -1,0 +1,114 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <title>
+        {{ title }}
+</title>
+
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+    <link rel="stylesheet" href="https://stackpath.bootstrapcdn.com/bootstrap/4.3.1/css/bootstrap.min.css"
+    integrity="sha384-ggOyR0iXCbMQv3Xipma34MD+dH/1fQ784/j6cY/iJTQUOhcWr7x9JvoRxT2MZw1T" crossorigin="anonymous">
+    <link rel="stylesheet" href="https://stackpath.bootstrapcdn.com/bootstrap/4.5.2/css/bootstrap.min.css">
+
+
+    
+<link rel="stylesheet" href="/static/css/styleprofil.css" type="text/css">
+</head>
+
+<body>
+    <div class="header1">
+      <h1>FoodHome</h1>
+      <p>СУШИ-БАР №1<br>(по версии лучших суши-тестировщиков в Казани)</p>
+    </div>
+
+    <div class="navbar">
+      <a href="{% url 'menu' %}">МЕНЮ</a>
+      <a href="{% url 'about' %}">Важное о нас</a>
+      <a href="{% url 'actions' %}">Акции и предложения</a>
+      <a href="{% url 'forum' %}">Отзывы</a>
+      <a href="{% url 'profil' %}">Профиль</a>
+      {% if user.is_loggin_in %}
+         <a href="{% url 'register' %}">Регистрация</a>
+      {% else %}
+        {% if user.is_authenticated %}
+          <a href="{% url 'logout' %}" class="right">Выйти ({{user.username}})</a>
+        {% else %}
+          <a href="{% url 'register' %}">Регистрация</a>
+          <a href="{% url 'login' %}" class="right">Войти</a>
+        {% endif %}
+     {% endif %}
+    </div>
+<div>
+</div>
+<div class="container">
+<div id="main1">
+
+<br>
+<h2 class="post-cat", align="center">Профиль</h2>
+<br>
+
+ <div class="row" id="real-estates-detail">
+ <div class="col-lg-4 col-md-4 col-xs-12">
+ <div class="panel panel-default">
+ <div class="panel-heading">
+ <header class="panel-title">
+ <div class="text-center">
+ <strong>Пользователь сайта</strong>
+ </div>
+ </header>
+ </div>
+ <div class="panel-body">
+ <div class="text-center" id="author">
+     <br>
+ <p class="sosmed-author">
+ </p>
+ </div>
+ </div>
+ </div>
+ </div>
+ <div class="col-lg-8 col-md-8 col-xs-12">
+ <div class="panel">
+ <div class="panel-body">
+ <ul id="myTab" class="nav nav-pills">
+     <li class="post-cat1"><b>О пользователе</b></li>
+ </ul>
+ <div id="myTabContent" class="tab-content">
+<hr>
+ {% if info %}
+    {% for el in info %}
+         <p ><u>Имя</u>: {{ el.name }}</p>
+          <br>
+        <p class="post-cat1"><b>Недавно совершённые заказы:</b></p>
+    {% endfor %}
+ {% else %}
+    <p>Пользователь не зарегистрирован</p>
+ {% endif %}
+
+     {%  if news %}
+         {% for el in news%}
+            <div class = "alert alert-warning mt-3">
+                <h4>{{ el.title }}</h4>
+                <p>{{ el.phone_number }}</p>
+                <p>{{ el.name }}</p>
+            </div>
+         {% endfor %}
+    {% else %}
+        <p>У нас нет записей</p>
+    {% endif %}
+ </div>
+ </div>
+ </div>
+ </div>
+ </div>
+ </div>
+ </div>
+
+    <div class="navbar">
+      <a href="{% url 'booktable' %}">Бронирование столика</a>
+      <a href="{% url 'new' %}">Сделать заказ</a>
+      <a href="{% url 'work' %}">Приём на работу</a>
+    </div>
+
+</body>
+</html>

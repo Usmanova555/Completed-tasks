@@ -1,0 +1,367 @@
+{% extends 'main/base.html'%}
+{% load static %}
+
+{% block title%}
+Роллы
+{% endblock %}
+
+{% block style %}
+<link rel="stylesheet" href="{% static 'css/stylerolls.css' %}" type="text/css">
+{% endblock %}
+
+{% block content%}
+
+<br>
+<h2 class="post-cat", align="center">Роллы</h2>
+<br>
+
+<div class="post-wrap" mt-2>
+    {% for el in rolls1 %}
+	<div class="post-item">
+		<div class="post-item-wrap">
+			<a href="" class="post-link">
+			<div class="image-wrapper">
+				<img src={{el.photo.url}}>
+			</div>
+			<div class="text-wrapper">
+				<div class="post-cat">{{el.title}}</div>
+				<div style="font-size: 13px" class="post-cat2"><p>{{el.sostav}}</p></div>
+				<h4 class="post-title2">({{el.ves}} грамм)</h4>
+				<p>{{el.price}} ₽</p>
+				<h3 class="post-title">FoodHome</h3>
+			</div>
+			<div class="overlay"></div></a>
+		</div>
+	</div>
+    {% endfor %}
+</div>
+
+</div>
+<div class="post-wrap">
+	<div class="post-item">
+		<div class="post-item-wrap">
+			<a href="" class="post-link">
+			<div class="image-wrapper">
+				<img src="{% static 'img/rolls/1.png' %}">
+			</div>
+			<div class="text-wrapper">
+				<div class="post-cat">Ролл Калифорния</div>
+				<div style="font-size: 13px" class="post-cat2"><p>Снежный краб, авокадо, огурец, соус, тобико, рис, нори</p></div>
+				<h4 class="post-title2">(230 грамм)</h4>
+				<p>249 ₽</p>
+				<h3 class="post-title">FoodHome</h3>
+			</div>
+			<div class="overlay"></div></a>
+		</div>
+	</div>
+
+	<div class="post-item">
+		<div class="post-item-wrap">
+			<a href="" class="post-link">
+			<div class="image-wrapper">
+				<img src="{% static 'img/rolls/2.png' %}">
+			</div>
+			<div class="text-wrapper">
+				<div class="post-cat">Ролл Том ям</div>
+				<div style="font-size: 13px" class="post-cat2"><p>Лосось, креветка тигровая, мидии, грибы шиитаке, тобико, томаты черри, кинза, соус фирменный, рис, нори</p></div>
+				<h4 class="post-title2">(260 грамм)</h4>
+				<p>299 ₽</p>
+				<h3 class="post-title">FoodHome</h3>
+			</div>
+			<div class="overlay"></div></a>
+		</div>
+	</div>
+
+	<div class="post-item">
+		<div class="post-item-wrap">
+			<a href="" class="post-link">
+			<div class="image-wrapper">
+				<img src="{% static 'img/rolls/3.png' %}">
+			</div>
+			<div class="text-wrapper">
+				<div class="post-cat">Ролл Гейша</div>
+				<div style="font-size: 13px" class="post-cat2"><p>Снежный краб, креветка тигровая, авокадо, тобико, сыр сливочный, соус, рис, нори</p></div>
+				<h4 class="post-title2">(250 грамм)</h4>
+				<p>320 ₽</p>
+				<h3 class="post-title">FoodHome</h3>
+			</div>
+			<div class="overlay"></div></a>
+		</div>
+	</div>
+
+	<div class="post-item">
+		<div class="post-item-wrap">
+			<a href="" class="post-link">
+			<div class="image-wrapper">
+				<img src="{% static 'img/rolls/4.png' %}">
+			</div>
+			<div class="text-wrapper">
+				<div class="post-cat">Ролл Дракон</div>
+				<div style="font-size: 13px" class="post-cat2"><p>Лосось, угорь, авокадо, огурец, сыр сливочный, кунжут, рис, нори</p></div>
+				<h4 class="post-title2">(250 грамм)</h4>
+				<p>339 ₽</p>
+				<h3 class="post-title">FoodHome</h3>
+			</div>
+			<div class="overlay"></div></a>
+		</div>
+	</div>
+
+	<div class="post-item">
+		<div class="post-item-wrap">
+			<a href="" class="post-link">
+			<div class="image-wrapper">
+				<img src="{% static 'img/rolls/5.png' %}">
+			</div>
+			<div class="text-wrapper">
+				<div class="post-cat">Ролл Канада</div>
+				<div style="font-size: 13px" class="post-cat2"><p>Угорь, лосось, авокадо, сыр сливочный, соус унаги, кунжут, рис, нори</p></div>
+				<h4 class="post-title2">(270 грамм)</h4>
+				<p>449 ₽</p>
+				<h3 class="post-title">FoodHome</h3>
+			</div>
+			<div class="overlay"></div></a>
+		</div>
+	</div>
+
+    <div class="post-item">
+		<div class="post-item-wrap">
+			<a href="" class="post-link">
+			<div class="image-wrapper">
+				<img src="{% static 'img/rolls/6.png' %}">
+			</div>
+			<div class="text-wrapper">
+				<div class="post-cat">Ролл для двоих</div>
+				<div style="font-size: 13px" class="post-cat2"><p>Угорь, лосось, огурец, сыр сливочный, соус унаги, кунжут, рис, нори</p></div>
+				<h4 class="post-title2">(250 грамм)</h4>
+				<p>369 ₽</p>
+				<h3 class="post-title">FoodHome</h3>
+			</div>
+			<div class="overlay"></div></a>
+		</div>
+	</div>
+
+	<div class="post-item">
+		<div class="post-item-wrap">
+			<a href="" class="post-link">
+			<div class="image-wrapper">
+				<img src="{% static 'img/rolls/7.png' %}">
+			</div>
+			<div class="text-wrapper">
+				<div class="post-cat">Ролл Онтарио</div>
+				<div style="font-size: 13px" class="post-cat2"><p>Кларий, сыр сливочный, соус цезарь, кунжут, рис, нори</p></div>
+				<h4 class="post-title2">(230 грамм)</h4>
+				<p>219 ₽</p>
+				<h3 class="post-title">FoodHome</h3>
+			</div>
+			<div class="overlay"></div></a>
+		</div>
+	</div>
+
+	<div class="post-item">
+		<div class="post-item-wrap">
+			<a href="" class="post-link">
+			<div class="image-wrapper">
+				<img src="{% static 'img/rolls/8.png' %}">
+			</div>
+			<div class="text-wrapper">
+				<div class="post-cat">Ролл Сливочная креветка</div>
+				<div style="font-size: 13px" class="post-cat2"><p>Креветка тигровая, авокадо, сливочный сыр, кунжут, рис, нори</p></div>
+				<h4 class="post-title2">(235 грамм)</h4>
+				<p>269 ₽</p>
+				<h3 class="post-title">FoodHome</h3>
+			</div>
+			<div class="overlay"></div></a>
+		</div>
+	</div>
+
+	<div class="post-item">
+		<div class="post-item-wrap">
+			<a href="" class="post-link">
+			<div class="image-wrapper">
+				<img src="{% static 'img/rolls/9.png' %}">
+			</div>
+			<div class="text-wrapper">
+				<div class="post-cat">Ролл Филадельфия Тар-Тар</div>
+				<div style="font-size: 13px" class="post-cat2"><p>Лосось, сыр сливочный, соус тар-тар, рис, нори</p></div>
+				<h4 class="post-title2">(220 грамм)</h4>
+				<p>299 ₽</p>
+				<h3 class="post-title">FoodHome</h3>
+			</div>
+			<div class="overlay"></div></a>
+		</div>
+	</div>
+
+	<div class="post-item">
+		<div class="post-item-wrap">
+			<a href="" class="post-link">
+			<div class="image-wrapper">
+				<img src="{% static 'img/rolls/10.png' %}">
+			</div>
+			<div class="text-wrapper">
+				<div class="post-cat">Ролл Филадельфия Лайт</div>
+				<div style="font-size: 13px" class="post-cat2"><p>Лосось, сыр сливочный, рис, нори</p></div>
+				<h4 class="post-title2">(220 грамм)</h4>
+				<p>210 ₽</p>
+				<h3 class="post-title">FoodHome</h3>
+			</div>
+			<div class="overlay"></div></a>
+		</div>
+	</div>
+
+	<div class="post-item">
+		<div class="post-item-wrap">
+			<a href="" class="post-link">
+			<div class="image-wrapper">
+				<img src="{% static 'img/rolls/11.png' %}">
+			</div>
+			<div class="text-wrapper">
+				<div class="post-cat">Ролл Самурай</div>
+				<div style="font-size: 13px" class="post-cat2"><p>Лосось, авокадо, сыр сливочный, тобико, рис, нори</p></div>
+				<h4 class="post-title2">(250 грамм)</h4>
+				<p>379 ₽</p>
+				<h3 class="post-title">FoodHome</h3>
+			</div>
+			<div class="overlay"></div></a>
+		</div>
+	</div>
+
+	<div class="post-item">
+		<div class="post-item-wrap">
+			<a href="" class="post-link">
+			<div class="image-wrapper">
+				<img src="{% static 'img/rolls/12.png' %}">
+			</div>
+			<div class="text-wrapper">
+				<div class="post-cat">Ролл Филадельфия</div>
+				<div style="font-size: 13px" class="post-cat2"><p>Лосось, авокадо, сыр сливочный, рис, нори</p></div>
+				<h4 class="post-title2">(230 грамм)</h4>
+				<p>259 ₽</p>
+				<h3 class="post-title">FoodHome</h3>
+			</div>
+			<div class="overlay"></div></a>
+		</div>
+	</div>
+
+	<div class="post-item">
+		<div class="post-item-wrap">
+			<a href="" class="post-link">
+			<div class="image-wrapper">
+				<img src="{% static 'img/rolls/13.png' %}">
+			</div>
+			<div class="text-wrapper">
+				<div class="post-cat">Ролл Филадельфия люкс</div>
+				<div style="font-size: 13px" class="post-cat2"><p>Лосось, икра красная, сыр сливочный, рис, нори</p></div>
+				<h4 class="post-title2">(250 грамм)</h4>
+				<p>399 ₽</p>
+				<h3 class="post-title">FoodHome</h3>
+			</div>
+			<div class="overlay"></div></a>
+		</div>
+	</div>
+
+	<div class="post-item">
+		<div class="post-item-wrap">
+			<a href="" class="post-link">
+			<div class="image-wrapper">
+				<img src="{% static 'img/rolls/14.png' %}">
+			</div>
+			<div class="text-wrapper">
+				<div class="post-cat">Ролл Калифорния с мидиями</div>
+				<div style="font-size: 13px" class="post-cat2"><p>Мидии, авокадо, огурец, соус, тобико, рис, нори</p></div>
+				<h4 class="post-title2">(260 грамм)</h4>
+				<p>259 ₽</p>
+				<h3 class="post-title">FoodHome</h3>
+			</div>
+			<div class="overlay"></div></a>
+		</div>
+	</div>
+
+	<div class="post-item">
+		<div class="post-item-wrap">
+			<a href="" class="post-link">
+			<div class="image-wrapper">
+				<img src="{% static 'img/rolls/15.png' %}">
+			</div>
+			<div class="text-wrapper">
+				<div class="post-cat">Ролл Цезарь</div>
+				<div style="font-size: 13px" class="post-cat2"><p>Курица, томат, салат, соус цезарь, рис, нори</p></div>
+				<h4 class="post-title2">(240 грамм)</h4>
+				<p>239 ₽</p>
+				<h3 class="post-title">FoodHome</h3>
+			</div>
+			<div class="overlay"></div></a>
+		</div>
+	</div>
+
+</div>
+
+<div class="post-wrap">
+	<div class="post-item">
+		<div class="post-item-wrap">
+			<a href="" class="post-link">
+			<div class="image-wrapper">
+				<img src="{% static 'img/rolls/17.png' %}">
+			</div>
+			<div class="text-wrapper">
+				<div class="post-cat">Ролл Ред Хот</div>
+				<div style="font-size: 13px" class="post-cat2"><p>Тунец, лосось х/к, сыр сливочный, лист салата, соус кимчи, тобико, рис, нори</p></div>
+				<h4 class="post-title2">(255 грамм)</h4>
+				<p>269 ₽</p>
+				<h3 class="post-title">FoodHome</h3>
+			</div>
+			<div class="overlay"></div></a>
+		</div>
+	</div>
+
+	<div class="post-item">
+		<div class="post-item-wrap">
+			<a href="" class="post-link">
+			<div class="image-wrapper">
+				<img src="{% static 'img/rolls/18.png' %}">
+			</div>
+			<div class="text-wrapper">
+				<div class="post-cat">Ролл Найроби</div>
+				<div style="font-size: 13px" class="post-cat2"><p>Лосось, кларий, огурец, сыр сливочный, соус терияки, арахис, рис, нори</p></div>
+				<h4 class="post-title2">(260 грамм)</h4>
+				<p>269 ₽</p>
+				<h3 class="post-title">FoodHome</h3>
+			</div>
+			<div class="overlay"></div></a>
+		</div>
+	</div>
+
+	<div class="post-item">
+		<div class="post-item-wrap">
+			<a href="" class="post-link">
+			<div class="image-wrapper">
+				<img src="{% static 'img/rolls/19.png' %}">
+			</div>
+			<div class="text-wrapper">
+				<div class="post-cat">Ролл Фудзи</div>
+				<div style="font-size: 13px" class="post-cat2"><p>Креветка тигровая, кларий, авокадо, соус кунжутный, соус унаги, темпура, тобико, кунжут, рис, нори</p></div>
+				<h4 class="post-title2">(250 грамм)</h4>
+				<p>269 ₽</p>
+				<h3 class="post-title">FoodHome</h3>
+			</div>
+			<div class="overlay"></div></a>
+		</div>
+	</div>
+
+	<div class="post-item">
+		<div class="post-item-wrap">
+			<a href="" class="post-link">
+			<div class="image-wrapper">
+				<img src="{% static 'img/rolls/20.png' %}">
+			</div>
+			<div class="text-wrapper">
+				<div class="post-cat">Ролл Дабл</div>
+				<div style="font-size: 13px" class="post-cat2"><p>Тунец, кларий, снежный краб, сыр сливочный, соус кимчи, соус унаги, тобико, рис, нори</p></div>
+				<h4 class="post-title2">(240 грамм)</h4>
+				<p>379 ₽</p>
+				<h3 class="post-title">FoodHome</h3>
+			</div>
+			<div class="overlay"></div></a>
+		</div>
+	</div>
+</div>
+{% endblock %}

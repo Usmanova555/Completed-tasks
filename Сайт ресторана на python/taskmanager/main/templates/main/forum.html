@@ -1,0 +1,42 @@
+{% extends 'main/base.html'%}
+{% load static %}
+
+{% block title%}
+{{ title }}
+{% endblock %}
+
+{% block style %}
+<link rel="stylesheet" href="{% static 'css/styleforum.css' %}" type="text/css">
+{% endblock %}
+
+
+{% block content%}
+		 <br>
+		 <h2 class="post-cat", align="center">Отзывы</h2>
+		 <br>
+<div class = "text", align="center">
+	<p>
+		Свой отзыв вы можете оставить по ссылке:
+	</p>&nbsp;
+	<a href="{% url 'createforum' %}">Оставить отзыв</a><br>
+</div>
+
+<div class = "post-wrap">
+		{% if forums %}
+			{% for el in forums %}
+				<div class="container1 mt-2">
+					<p><span>{{el.title_fio}}</span></p>
+					<p>{{el.message}}</p>
+					<h4 class="post-title2">{{el.created}} </h4>
+                    <p>{{el.image}}</p>
+				</div>
+			{% endfor %}
+		{% else %}
+		<p>У нас нет отзывов</p>
+		{% endif %}
+</div>
+
+  <br> <br>
+     <br>
+     <br>
+{% endblock %}

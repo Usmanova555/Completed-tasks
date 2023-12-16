@@ -1,0 +1,15 @@
+{% extends 'main/layout.html' %}
+
+{% block title %} {{ forecast.title }} {% endblock %}
+
+{% block content %}
+    <div class="features">
+        <h1>{{ forecast.title }}</h1>
+        <p>{{ forecast.date }}</p>
+        <p>{{ forecast.full_text }}</p>
+        {% if request.user.is_authenticated %}
+                <a href="{% url 'forecasts-update' forecast.id %}" class="btn btn-warning">Редактировать</a>
+                <a href="{% url 'forecasts-delete' forecast.id %}" class="btn btn-danger">Удалить</a>
+        {% endif %}
+    </div>
+{% endblock %}

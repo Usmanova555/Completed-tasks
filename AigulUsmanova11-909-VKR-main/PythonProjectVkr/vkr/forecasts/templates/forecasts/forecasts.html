@@ -1,0 +1,43 @@
+{% extends 'main/layout.html' %}
+
+{% block title %} Прогнозы {% endblock %}
+
+{% block content %}
+    <div class="features">
+        <h1>Прогнозы</h1>
+        {% if forecasts %}
+            {% for forecast in page_obj %}
+                <div class="post-wrap">
+                <div class="post-item">
+                <div class="item-content">
+                <div class="item-body">
+                <h3>{{ forecast.title }}</h3>
+                <p>{{ forecast.anons }}</p>
+                <p>{{ forecast.full_text|truncatewords:50 }}</p>
+                <p>{{ forecast.date }}</p>
+                <a href="{% url 'forecasts-detail' forecast.id %}" class="btn btn-warning">Читать детальнее</a>
+                </div></div></div></div>
+            {% endfor %}
+            <ul>
+            {% if page_obj.has_previous %}
+                <a href="?page=1">&laquo; Первая</a>
+                <a href="?page={{ page_obj.previous_page_number }}">Предыдущая</a>
+            {% endif %}
+
+            <span>
+                Страница {{ page_obj.number }} из {{ page_obj.paginator.num_pages }}.
+            </span>
+
+            {% if page_obj.has_next %}
+                <a href="?page={{ page_obj.next_page_number }}">Следующая</a>
+                <a href="?page={{ page_obj.paginator.num_pages }}">Последняя &raquo;</a>
+            {% endif %}
+            </ul>
+
+        {% else %}
+            <p>Прогнозы отсутствуют</p>
+        {% endif %}
+
+            {# Комментарий #}
+    </div>
+{% endblock %}

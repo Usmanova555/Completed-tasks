@@ -1,0 +1,14 @@
+{% extends 'main/layout.html' %}
+
+{% block title %} Удаление прогноза {% endblock %}
+
+{% block content %}
+    <div class="text">
+        <h1>Подтверждение</h1>
+        <form method="post">
+            {% csrf_token %}
+            <p>Вы действительно хотите удалить прогноз?</p>
+            <div><button class="btn btn-success" type="submit">Удалить прогноз</button></div>
+        </form>
+    </div>
+{% endblock %}

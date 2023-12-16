@@ -1,0 +1,17 @@
+{% extends 'main/layout.html' %}
+{% load static %}
+
+{% block title %} Прогноз на другие сущности {% endblock %}
+
+{% block content %}
+    <div class="text">
+        <h1>{{ data.title }}</h1><br>
+        <p>Введите номер столбца прогнозируемой сущности:</p>
+        <form method="post">
+            {% csrf_token %}
+            {{ form2.name }}<br><br>
+            <button class="btn btn-success" type="submit">Отправить</button>
+        </form>
+        <h4><a class="linkStyle" href="{% url 'otherForecast' %}">Прогнозировать</a></h4>
+    </div>
+{% endblock %}

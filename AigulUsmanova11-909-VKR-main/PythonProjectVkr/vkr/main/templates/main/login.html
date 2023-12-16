@@ -1,0 +1,29 @@
+{% extends 'main/layout.html' %}
+
+{% block login %}
+    <ul>
+        {% if request.user.is_authenticated %}
+            <li> {{user.username}} | <a href="{% url 'logout' %}">Выйти</a></li>
+        {% else %}
+            <li><a href="{% url 'register' %}">Регистрация</a> | <a href="{% url 'login' %}">Войти</a></li>
+        {% endif %}
+    </ul>
+{% endblock %}
+
+{% block content %}
+{% block title %}{% endblock %}
+<div class="text">
+    <h1>Авторизация</h1>
+    <form method="post">
+    {% csrf_token %}
+    <div class="form-error">{{ form.non_field_errors }}</div>
+    {% for f in form %}
+        <p><label class="form-label" for="{{ f.id_for_label }}">{{f.label}}: </label>{{ f }}</p>
+        <div class="form-error">{{ f.errors }}</div>
+    {% endfor %}
+
+        <button class="btn btn-success">Войти</button>
+    </form>
+</div>
+
+{% endblock %}

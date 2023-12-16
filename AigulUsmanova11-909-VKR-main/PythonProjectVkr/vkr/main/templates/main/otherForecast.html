@@ -1,0 +1,12 @@
+{% extends 'main/layout.html' %}
+{% load static %}
+
+{% block title %} Прогноз {% endblock %}
+
+{% block content %}
+    <div class="text">
+        <h1>{{ data.title }}</h1><br>
+        <img src="{% static 'main/img/saved_image1.png' %}?rand={{number}}" width="1070" height="595">
+        <p>{{accuracy}}</p>
+    </div>
+{% endblock %}

@@ -1,0 +1,258 @@
+body {
+    background: #f8f1e2;
+}
+
+aside {
+    float: left;
+    background: #f1e3c5;
+    width: 20%;
+    padding: 2.5%;
+    height: 100vh;
+    color: #000;
+    border-right: 5px solid #4d4d4d;
+}
+
+.sidenav {
+    float: left;
+    height: 100%; /* Full-height: remove this if you want "auto" height */
+    width: 20%; /* Set the width of the sidebar */
+    position: fixed; /* Fixed Sidebar (stay in place on scroll) */
+    z-index: 1; /* Stay on top */
+    left: 0;
+    background-color: #f1e3c5;
+    border-right: 5px solid #4d4d4d;
+    overflow-x: hidden; /* Disable horizontal scroll */
+}
+
+.sidenav button {
+    margin-left: -3px;
+    font-size: 12.5pt
+
+}
+
+aside img {
+    width: 80px;
+    float: left;
+    margin-left: 19px;
+      filter: drop-shadow(-2px -15px 15px #fa6666);
+}
+
+aside .logo {
+    text-align: center;
+    font-size: 15px;
+    font-weight: bold;
+    position: relative;
+    top: 17px;
+    font-family: Helvetica, Arial, sans-serif;
+    font-family: helvetica;
+    text-transform: uppercase;
+    color: #45341a;
+    text-shadow: #ededed 1.5px 1px 0,
+               #000 1px 1px 1px,
+               #f5e8ced2 6px 7px 6px;
+}
+
+aside h3 {
+    margin-top: 50px;
+    font-size: 28px;
+    text-align: center;
+    color: #000;
+}
+
+aside h1 {
+    text-align: center;
+}
+
+.navigation {
+    font-size: 26px;
+    margin-left: 33px;
+}
+
+.linkStyle {
+    color: black;
+    color: #000;
+    display: block;
+    margin-top: 20px;
+    transition: transform .6s ease;
+}
+
+aside ul {list-style: none; }
+
+aside ul li {
+    font-size: 17px;
+    color: #000;
+    display: block;
+    margin-top: 20px;
+    transition: transform .6s ease;
+
+}
+
+aside ul li:hover, aside ul a:hover {
+    color: #fcfcfc;
+    text-decoration: none;
+    transform: scale(1.04);
+    -webkit-text-stroke: 0.05px #000;
+    -webkit-text-shadow: 2px 2px 2px #000;
+    -moz-text-shadow: 2px 2px 2px #000;
+    text-shadow: 2.5px 2.5px 2.5px #000;
+}
+
+aside a {
+    text-decoration: none;
+    color: #000;
+}
+
+main .features {
+    float: left;
+    color: #000;
+    margin-top: 100px;
+    text-align: center;
+    width: 80%;
+}
+
+main .features h1 {
+    font-size: 50px;
+}
+
+main .features p {max-width: 400px; margin: 20px auto; }
+
+main .text {
+    float: left;
+    color: #000;
+    margin-top: 100px;
+    text-align: center;
+    width: 80%;
+}
+
+main .text p {max-width: 400px; margin: 20px auto; }
+
+main .text h1 {
+    font-size: 50px;
+}
+
+main .text form {
+    max-width: 700px;
+    margin: 20px auto;
+}
+
+.alert-warning {
+    float: left;
+    clear: both;
+    width: 400px;
+    margin: 20px 34%;
+    text-align: left;
+}
+
+form {
+    margin-left: 32%;
+    width: 500px;
+    margin-top: 50px;
+}
+
+.center {
+    text-align: center
+}
+
+.post-wrap {
+   max-width: 500px;
+   margin: 0 auto;
+   justify-content: center;
+   text-align: justify;
+   flex-wrap: wrap;
+}
+.post-item {
+   padding: 15px;
+   cursor: pointer;
+}
+.post-item * {
+   transition: .3s linear;
+}
+.item-content {
+   background: #fdf4d3;
+   padding: 40px;
+}
+.item-icon {
+   margin-bottom: 20px;
+}
+.item-icon:before {
+   content: "";
+   font-family: FontAwesome;
+   color: #000;
+   font-size: 50px;
+   line-height: 1;
+}
+.post-item:hover .item-icon, .post-item:hover .item-body h3, .post-item:hover .item-body p {
+   transform: translateY(-8px);
+}
+.item-body {
+   color: #000;
+   font-size: 16px;
+}
+.item-body h3 {
+   font-weight: 500;
+   margin-bottom: 18px;
+   transition-delay: .05s;
+}
+.item-body p {
+   transition-delay: .1s;
+}
+.item-footer {
+   padding-top: 15px;
+}
+.link {
+   text-decoration: none;
+   display: inline-block;
+   overflow: hidden;
+   position: relative;
+   padding-right: 30px;
+   font-size: 12px;
+   text-transform: uppercase;
+   font-weight: 600;
+   color: #F5E2CD;
+}
+.link:before {
+   content: "";
+   position: absolute;
+   top: 0;
+   left: 0;
+   width: 100%;
+   bottom: 0;
+   height: .125rem;
+   margin: auto;
+   background: #F09EA3;
+   transform: scaleX(.2);
+   transform-origin: left center;
+   z-index: 0;
+   transition: .6s cubic-bezier(.6, .01, 0, 1);
+}
+.link span {
+   display: inline-block;
+   position: relative;
+   transform: translateX(-200%);
+   transition: .6s cubic-bezier(.6, .01, 0, 1);
+}
+.post-item:hover .link span {
+   transform: translateX(0%);
+}
+.post-item:hover .link:before {
+   transform-origin: right center;
+}
+@media () {
+   .post-item {
+      flex-basis: 50%;
+      flex-shrink: 0;
+   }
+}
+@media () {
+   .post-item {
+      flex-basis: 33.333333333%;
+   }
+}
+
+.right {
+    margin-right: 75px;
+}
+
+
+
+

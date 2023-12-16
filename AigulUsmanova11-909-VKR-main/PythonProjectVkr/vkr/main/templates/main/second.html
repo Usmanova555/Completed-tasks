@@ -1,0 +1,40 @@
+{% extends 'main/layout.html' %}
+{% load static %}
+
+{% block title %} Анализ результатов {% endblock %}
+
+{% block content %}
+
+    <div class="text">
+        <h1>Анализ результатов</h1>
+        {% if messages %}
+            {% for message in messages %}
+                <div>
+                </div>
+            {% endfor %}
+        {% else %}
+        {{order}}
+        <form method="post" enctype="multipart/form-data">
+            {% csrf_token %}
+            <h4>Загрузка файла</h4>
+            <input type="file" name="file">
+            <p>Загрузите файл формата csv</p>
+            <button class="btn btn-success">Загрузить</button>
+        </form>
+        <br>
+        {% endif %}
+        <img src="{% static 'main/img/saved_image.png' %}?rand={{number}}" width="1070" height="595">
+        <p>{{accuracy}}</p>
+        <br><br>
+        <h5>Правила по загрузке файла:</h5>
+        <p>1. Объем файла - от 3 до 9 столбцов</p>
+        <p>2. Второй столбец должен состоять из дат</p>
+        <p>3. Остальные столбцы должны состоять из числовых переменных</p>
+        <p>4. Прогнозируется третий столбец</p><br>
+        <h4><a class="linkStyle" href="{% url 'otherForecasts' %}">Анализ других сущностей</a></h4><br>
+<!--        <p>Если Вы проанализировали необходимые сущности и появилась необходимость в загрузке нового файла, пожалуйста, нажмите на кнопку удаления старых данных.</p>-->
+<!--        <a href="{% url 'delete' %}" class="btn btn-success">Удалить</a>-->
+        <br><br>
+    </div>
+
+{% endblock %}

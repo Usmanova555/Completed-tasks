@@ -1,0 +1,15 @@
+{% extends 'main/layout.html' %}
+{% load static %}
+
+{% block title %} Подтверждение удаления {% endblock %}
+
+{% block content %}
+    <div class="text">
+        <h1>Подтверждение</h1>
+        <form method="post">
+            {% csrf_token %}
+            <p>Вы действительно хотите удалить загруженные данные?</p>
+            <div><button class="btn btn-success" type="submit">Удалить</button></div>
+        </form>
+    </div>
+{% endblock %}
